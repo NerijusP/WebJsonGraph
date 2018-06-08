@@ -1,0 +1,84 @@
+Body{
+    background-image: repeating-linear-gradient(red, yellow 10%, green 20%);
+}
+
+.Konteineris{
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-color: darkblue;
+    width: 48%;
+    height: 100%;
+    float: left;
+
+}
+.Eilute{
+    height: 30%;
+}
+.mygtuko_konteineris{
+    width: 100%;
+    padding: 30px;
+    background-color: red;
+}
+.trysViename{
+     width: 30%;
+     float: left;
+     background-color: darkblue;
+    justify-content:center;
+    display:flex;
+    height: 100px;
+
+ }
+.trysViename2{
+     width: 30%;
+     float: left;
+     background-color: yellow;
+    justify-content:center;
+    display:flex;
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 100px;
+border: black;
+    border-width: 5px;
+ }
+.trysViename3{
+    width: 30%;
+    float: left;
+    background-color: red;
+    justify-content:center;
+    display:flex;
+    height: 100px;
+
+}
+.ketvirtas{
+    background-color: green;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    width: 30%;
+    position: absolute;
+    left: 300px;
+    top: 150px;
+    z-index: 10;
+    height: 50px;
+}
+.penktas{
+    background-color: aqua;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    width: 30%;
+    position: absolute;
+    left: 310px;
+    bottom: 110px;
+
+
+}
+.sestas{
+    background-color: darkorchid;
+    position: fixed;
+    bottom: 100px;
+    left: 150px;
+    height: 200px;
+}

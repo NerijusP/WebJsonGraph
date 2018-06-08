@@ -1,0 +1,15 @@
+body{
+    background-color: darkblue;
+
+}
+div{
+    background-color: lightpink;
+}
+input{
+    background-color: blueviolet;
+}
+
+#umygtukas{
+    font-size: 24px;
+    color: green;
+}

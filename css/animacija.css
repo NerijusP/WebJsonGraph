@@ -1,0 +1,14 @@
+/* Animacijos kodas */
+@keyframes example {
+    from {background-color: red;}
+    to {background-color: yellow;}
+}
+/* Elementas kuriam taikysime animacija */
+.sestas {
+    /*width: 100px;*/
+    /*height: 100px;*/
+    background-color: red;
+    animation-name: example;
+    animation-duration: 1s;
+    animation-iteration-count: 30;
+}
