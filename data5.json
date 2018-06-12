@@ -1,0 +1,1973 @@
+[
+  {
+    "logID": 5500,
+    "totalLicExist": 1528476759000,
+    "used_cm": 0,
+    "used_dfr": 5,
+    "used_fud": 3,
+    "used_pcd": 29,
+    "used_vie": 11
+  },
+  {
+    "logID": 5501,
+    "totalLicExist": 1528477041000,
+    "used_cm": 0,
+    "used_dfr": 5,
+    "used_fud": 3,
+    "used_pcd": 26,
+    "used_vie": 9
+  },
+  {
+    "logID": 5502,
+    "totalLicExist": 1528477339000,
+    "used_cm": 0,
+    "used_dfr": 4,
+    "used_fud": 3,
+    "used_pcd": 25,
+    "used_vie": 9
+  },
+  {
+    "logID": 5503,
+    "totalLicExist": 1528477639000,
+    "used_cm": 0,
+    "used_dfr": 4,
+    "used_fud": 3,
+    "used_pcd": 25,
+    "used_vie": 9
+  },
+  {
+    "logID": 5504,
+    "totalLicExist": 1528477939000,
+    "used_cm": 0,
+    "used_dfr": 4,
+    "used_fud": 3,
+    "used_pcd": 25,
+    "used_vie": 8
+  },
+  {
+    "logID": 5505,
+    "totalLicExist": 1528478239000,
+    "used_cm": 0,
+    "used_dfr": 4,
+    "used_fud": 3,
+    "used_pcd": 23,
+    "used_vie": 6
+  },
+  {
+    "logID": 5506,
+    "totalLicExist": 1528478539000,
+    "used_cm": 0,
+    "used_dfr": 4,
+    "used_fud": 3,
+    "used_pcd": 21,
+    "used_vie": 6
+  },
+  {
+    "logID": 5507,
+    "totalLicExist": 1528478840000,
+    "used_cm": 0,
+    "used_dfr": 4,
+    "used_fud": 3,
+    "used_pcd": 20,
+    "used_vie": 5
+  },
+  {
+    "logID": 5508,
+    "totalLicExist": 1528479138000,
+    "used_cm": 0,
+    "used_dfr": 4,
+    "used_fud": 3,
+    "used_pcd": 19,
+    "used_vie": 5
+  },
+  {
+    "logID": 5509,
+    "totalLicExist": 1528479438000,
+    "used_cm": 0,
+    "used_dfr": 4,
+    "used_fud": 3,
+    "used_pcd": 19,
+    "used_vie": 5
+  },
+  {
+    "logID": 5510,
+    "totalLicExist": 1528479739000,
+    "used_cm": 0,
+    "used_dfr": 3,
+    "used_fud": 3,
+    "used_pcd": 19,
+    "used_vie": 5
+  },
+  {
+    "logID": 5511,
+    "totalLicExist": 1528480040000,
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 3,
+    "used_pcd": 17,
+    "used_vie": 5
+  },
+  {
+    "logID": 5512,
+    "totalLicExist": 1528480340000,
+    "used_cm": 0,
+    "used_dfr": 3,
+    "used_fud": 3,
+    "used_pcd": 17,
+    "used_vie": 4
+  },
+  {
+    "logID": 5513,
+    "totalLicExist": 1528480638000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 0,
+    "used_pcd": 6,
+    "used_vie": 3
+  },
+  {
+    "logID": 5514,
+    "totalLicExist": 1528480938000,
+    "used_cm": 0,
+    "used_dfr": 3,
+    "used_fud": 3,
+    "used_pcd": 11,
+    "used_vie": 3
+  },
+  {
+    "logID": 5515,
+    "totalLicExist": 1528481238000,
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 3,
+    "used_pcd": 11,
+    "used_vie": 3
+  },
+  {
+    "logID": 5516,
+    "totalLicExist": 1528481538000,
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 3,
+    "used_pcd": 11,
+    "used_vie": 3
+  },
+  {
+    "logID": 5517,
+    "totalLicExist": 1528481838000,
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 9,
+    "used_vie": 3
+  },
+  {
+    "logID": 5518,
+    "totalLicExist": 1528482138000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 2,
+    "used_pcd": 8,
+    "used_vie": 3
+  },
+  {
+    "logID": 5519,
+    "totalLicExist": 1528482438000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 2,
+    "used_pcd": 8,
+    "used_vie": 3
+  },
+  {
+    "logID": 5520,
+    "totalLicExist": 1528482738000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 2,
+    "used_pcd": 7,
+    "used_vie": 3
+  },
+  {
+    "logID": 5521,
+    "totalLicExist": 1528483038000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 2,
+    "used_pcd": 7,
+    "used_vie": 3
+  },
+  {
+    "logID": 5522,
+    "totalLicExist": 1528483338000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 2,
+    "used_pcd": 7,
+    "used_vie": 3
+  },
+  {
+    "logID": 5523,
+    "totalLicExist": 1528483638000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 2,
+    "used_pcd": 7,
+    "used_vie": 3
+  },
+  {
+    "logID": 5524,
+    "totalLicExist": 1528483938000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 2,
+    "used_pcd": 6,
+    "used_vie": 3
+  },
+  {
+    "logID": 5525,
+    "totalLicExist": 1528484238000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 2,
+    "used_pcd": 6,
+    "used_vie": 3
+  },
+  {
+    "logID": 5526,
+    "totalLicExist": 1528484538000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 2,
+    "used_pcd": 6,
+    "used_vie": 3
+  },
+  {
+    "logID": 5527,
+    "totalLicExist": 1528484838000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 2,
+    "used_pcd": 6,
+    "used_vie": 3
+  },
+  {
+    "logID": 5528,
+    "totalLicExist": 1528485138000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 2,
+    "used_pcd": 7,
+    "used_vie": 3
+  },
+  {
+    "logID": 5529,
+    "totalLicExist": 1528485438000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 2,
+    "used_pcd": 7,
+    "used_vie": 3
+  },
+  {
+    "logID": 5530,
+    "totalLicExist": 1528485738000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 2,
+    "used_pcd": 7,
+    "used_vie": 3
+  },
+  {
+    "logID": 5531,
+    "totalLicExist": 1528486038000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 2,
+    "used_pcd": 7,
+    "used_vie": 3
+  },
+  {
+    "logID": 5532,
+    "totalLicExist": 1528486338000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 2,
+    "used_pcd": 7,
+    "used_vie": 3
+  },
+  {
+    "logID": 5533,
+    "totalLicExist": 1528486638000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 2,
+    "used_pcd": 7,
+    "used_vie": 3
+  },
+  {
+    "logID": 5534,
+    "totalLicExist": 1528486938000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 2,
+    "used_pcd": 7,
+    "used_vie": 3
+  },
+  {
+    "logID": 5535,
+    "totalLicExist": 1528487238000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 2,
+    "used_pcd": 7,
+    "used_vie": 3
+  },
+  {
+    "logID": 5536,
+    "totalLicExist": 1528487538000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 2,
+    "used_pcd": 7,
+    "used_vie": 3
+  },
+  {
+    "logID": 5537,
+    "totalLicExist": 1528487838000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 2,
+    "used_pcd": 7,
+    "used_vie": 3
+  },
+  {
+    "logID": 5538,
+    "totalLicExist": 1528488138000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 2,
+    "used_pcd": 7,
+    "used_vie": 3
+  },
+  {
+    "logID": 5539,
+    "totalLicExist": 1528488438000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 2,
+    "used_pcd": 6,
+    "used_vie": 3
+  },
+  {
+    "logID": 5540,
+    "totalLicExist": 1528488738000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 2,
+    "used_pcd": 6,
+    "used_vie": 3
+  },
+  {
+    "logID": 5541,
+    "totalLicExist": 1528489038000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 2,
+    "used_pcd": 5,
+    "used_vie": 3
+  },
+  {
+    "logID": 5542,
+    "totalLicExist": 1528489338000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 2,
+    "used_pcd": 5,
+    "used_vie": 3
+  },
+  {
+    "logID": 5543,
+    "totalLicExist": 1528489638000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 2,
+    "used_pcd": 5,
+    "used_vie": 3
+  },
+  {
+    "logID": 5544,
+    "totalLicExist": 1528489938000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 2,
+    "used_pcd": 5,
+    "used_vie": 3
+  },
+  {
+    "logID": 5545,
+    "totalLicExist": 1528490238000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 2,
+    "used_pcd": 5,
+    "used_vie": 3
+  },
+  {
+    "logID": 5546,
+    "totalLicExist": 1528490538000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 2,
+    "used_pcd": 5,
+    "used_vie": 3
+  },
+  {
+    "logID": 5547,
+    "totalLicExist": 1528490838000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 2,
+    "used_pcd": 5,
+    "used_vie": 3
+  },
+  {
+    "logID": 5548,
+    "totalLicExist": 1528491138000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 2,
+    "used_pcd": 5,
+    "used_vie": 3
+  },
+  {
+    "logID": 5549,
+    "totalLicExist": 1528491439000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 2,
+    "used_pcd": 5,
+    "used_vie": 3
+  },
+  {
+    "logID": 5550,
+    "totalLicExist": 1528492060000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 2,
+    "used_pcd": 5,
+    "used_vie": 3
+  },
+  {
+    "logID": 5551,
+    "totalLicExist": 1528492348000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 2,
+    "used_pcd": 5,
+    "used_vie": 3
+  },
+  {
+    "logID": 5552,
+    "totalLicExist": 1528492683000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 2,
+    "used_pcd": 5,
+    "used_vie": 3
+  },
+  {
+    "logID": 5553,
+    "totalLicExist": 1528492975000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 2,
+    "used_pcd": 5,
+    "used_vie": 3
+  },
+  {
+    "logID": 5554,
+    "totalLicExist": 1528493264000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 2,
+    "used_pcd": 5,
+    "used_vie": 3
+  },
+  {
+    "logID": 5555,
+    "totalLicExist": 1528493557000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 2,
+    "used_pcd": 5,
+    "used_vie": 3
+  },
+  {
+    "logID": 5556,
+    "totalLicExist": 1528493841000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 2,
+    "used_pcd": 5,
+    "used_vie": 3
+  },
+  {
+    "logID": 5557,
+    "totalLicExist": 1528494141000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 2,
+    "used_pcd": 5,
+    "used_vie": 3
+  },
+  {
+    "logID": 5558,
+    "totalLicExist": 1528494438000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 2,
+    "used_pcd": 5,
+    "used_vie": 3
+  },
+  {
+    "logID": 5559,
+    "totalLicExist": 1528494738000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 2,
+    "used_pcd": 5,
+    "used_vie": 3
+  },
+  {
+    "logID": 5560,
+    "totalLicExist": 1528495038000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 2,
+    "used_pcd": 5,
+    "used_vie": 3
+  },
+  {
+    "logID": 5561,
+    "totalLicExist": 1528495338000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 5,
+    "used_vie": 3
+  },
+  {
+    "logID": 5562,
+    "totalLicExist": 1528495638000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 5,
+    "used_vie": 3
+  },
+  {
+    "logID": 5563,
+    "totalLicExist": 1528495939000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 1,
+    "used_pcd": 5,
+    "used_vie": 3
+  },
+  {
+    "logID": 5564,
+    "totalLicExist": 1528496239000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 1,
+    "used_pcd": 5,
+    "used_vie": 3
+  },
+  {
+    "logID": 5565,
+    "totalLicExist": 1528496539000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 1,
+    "used_pcd": 5,
+    "used_vie": 3
+  },
+  {
+    "logID": 5566,
+    "totalLicExist": 1528496951000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 5,
+    "used_vie": 3
+  },
+  {
+    "logID": 5567,
+    "totalLicExist": 1528497142000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 5,
+    "used_vie": 3
+  },
+  {
+    "logID": 5568,
+    "totalLicExist": 1528497449000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 1,
+    "used_pcd": 6,
+    "used_vie": 3
+  },
+  {
+    "logID": 5569,
+    "totalLicExist": 1528497743000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 1,
+    "used_pcd": 6,
+    "used_vie": 3
+  },
+  {
+    "logID": 5570,
+    "totalLicExist": 1528498038000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 1,
+    "used_pcd": 6,
+    "used_vie": 3
+  },
+  {
+    "logID": 5571,
+    "totalLicExist": 1528498339000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 1,
+    "used_pcd": 6,
+    "used_vie": 3
+  },
+  {
+    "logID": 5572,
+    "totalLicExist": 1528498640000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 1,
+    "used_pcd": 6,
+    "used_vie": 3
+  },
+  {
+    "logID": 5573,
+    "totalLicExist": 1528498939000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 1,
+    "used_pcd": 6,
+    "used_vie": 3
+  },
+  {
+    "logID": 5574,
+    "totalLicExist": 1528499239000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 1,
+    "used_pcd": 6,
+    "used_vie": 3
+  },
+  {
+    "logID": 5575,
+    "totalLicExist": 1528499540000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 1,
+    "used_pcd": 6,
+    "used_vie": 3
+  },
+  {
+    "logID": 5576,
+    "totalLicExist": 1528499839000,
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 1,
+    "used_pcd": 6,
+    "used_vie": 3
+  },
+  {
+    "logID": 5577,
+    "totalLicExist": 1528500143000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 6,
+    "used_vie": 3
+  },
+  {
+    "logID": 5578,
+    "totalLicExist": 1528500439000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 6,
+    "used_vie": 3
+  },
+  {
+    "logID": 5579,
+    "totalLicExist": 1528500738000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 6,
+    "used_vie": 3
+  },
+  {
+    "logID": 5580,
+    "totalLicExist": 1528501038000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 6,
+    "used_vie": 3
+  },
+  {
+    "logID": 5581,
+    "totalLicExist": 1528501338000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 6,
+    "used_vie": 3
+  },
+  {
+    "logID": 5582,
+    "totalLicExist": 1528501638000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 6,
+    "used_vie": 3
+  },
+  {
+    "logID": 5583,
+    "totalLicExist": 1528501938000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 6,
+    "used_vie": 2
+  },
+  {
+    "logID": 5584,
+    "totalLicExist": 1528502238000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 6,
+    "used_vie": 2
+  },
+  {
+    "logID": 5585,
+    "totalLicExist": 1528502538000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 6,
+    "used_vie": 2
+  },
+  {
+    "logID": 5586,
+    "totalLicExist": 1528502838000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 6,
+    "used_vie": 2
+  },
+  {
+    "logID": 5587,
+    "totalLicExist": 1528503138000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 6,
+    "used_vie": 2
+  },
+  {
+    "logID": 5588,
+    "totalLicExist": 1528503438000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 6,
+    "used_vie": 2
+  },
+  {
+    "logID": 5589,
+    "totalLicExist": 1528503738000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 6,
+    "used_vie": 2
+  },
+  {
+    "logID": 5590,
+    "totalLicExist": 1528504038000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 6,
+    "used_vie": 2
+  },
+  {
+    "logID": 5591,
+    "totalLicExist": 1528504338000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5592,
+    "totalLicExist": 1528504638000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5593,
+    "totalLicExist": 1528504938000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5594,
+    "totalLicExist": 1528505238000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5595,
+    "totalLicExist": 1528505538000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5596,
+    "totalLicExist": 1528505838000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5597,
+    "totalLicExist": 1528506138000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5598,
+    "totalLicExist": 1528506438000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5599,
+    "totalLicExist": 1528506738000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5600,
+    "totalLicExist": 1528507038000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5601,
+    "totalLicExist": 1528507338000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5602,
+    "totalLicExist": 1528507638000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5603,
+    "totalLicExist": 1528507938000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5604,
+    "totalLicExist": 1528508238000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5605,
+    "totalLicExist": 1528508538000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5606,
+    "totalLicExist": 1528508838000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5607,
+    "totalLicExist": 1528509139000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5608,
+    "totalLicExist": 1528509438000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5609,
+    "totalLicExist": 1528509738000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5610,
+    "totalLicExist": 1528510038000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5611,
+    "totalLicExist": 1528510338000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5612,
+    "totalLicExist": 1528510638000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5613,
+    "totalLicExist": 1528510938000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5614,
+    "totalLicExist": 1528511238000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5615,
+    "totalLicExist": 1528511538000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5616,
+    "totalLicExist": 1528511838000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5617,
+    "totalLicExist": 1528512138000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5618,
+    "totalLicExist": 1528512438000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5619,
+    "totalLicExist": 1528512738000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5620,
+    "totalLicExist": 1528513038000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5621,
+    "totalLicExist": 1528513338000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5622,
+    "totalLicExist": 1528513638000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5623,
+    "totalLicExist": 1528513938000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5624,
+    "totalLicExist": 1528514238000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5625,
+    "totalLicExist": 1528514538000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5626,
+    "totalLicExist": 1528514838000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5627,
+    "totalLicExist": 1528515138000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5628,
+    "totalLicExist": 1528515438000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5629,
+    "totalLicExist": 1528515738000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5630,
+    "totalLicExist": 1528516038000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5631,
+    "totalLicExist": 1528516338000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5632,
+    "totalLicExist": 1528516638000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5633,
+    "totalLicExist": 1528516938000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5634,
+    "totalLicExist": 1528517238000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5635,
+    "totalLicExist": 1528517538000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5636,
+    "totalLicExist": 1528517838000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5637,
+    "totalLicExist": 1528518138000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5638,
+    "totalLicExist": 1528518438000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5639,
+    "totalLicExist": 1528518738000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5640,
+    "totalLicExist": 1528519038000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5641,
+    "totalLicExist": 1528519338000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5642,
+    "totalLicExist": 1528519638000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5643,
+    "totalLicExist": 1528519939000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5644,
+    "totalLicExist": 1528520238000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5645,
+    "totalLicExist": 1528520538000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 5646,
+    "totalLicExist": 1528520838000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 6,
+    "used_vie": 2
+  },
+  {
+    "logID": 5647,
+    "totalLicExist": 1528521138000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 6,
+    "used_vie": 2
+  },
+  {
+    "logID": 5648,
+    "totalLicExist": 1528521438000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 6,
+    "used_vie": 2
+  },
+  {
+    "logID": 5649,
+    "totalLicExist": 1528521738000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 6,
+    "used_vie": 2
+  },
+  {
+    "logID": 5650,
+    "totalLicExist": 1528522038000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 6,
+    "used_vie": 2
+  },
+  {
+    "logID": 5651,
+    "totalLicExist": 1528522338000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 6,
+    "used_vie": 2
+  },
+  {
+    "logID": 5652,
+    "totalLicExist": 1528522638000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 6,
+    "used_vie": 2
+  },
+  {
+    "logID": 5653,
+    "totalLicExist": 1528522938000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 6,
+    "used_vie": 2
+  },
+  {
+    "logID": 5654,
+    "totalLicExist": 1528523238000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 6,
+    "used_vie": 2
+  },
+  {
+    "logID": 5655,
+    "totalLicExist": 1528523538000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 6,
+    "used_vie": 2
+  },
+  {
+    "logID": 5656,
+    "totalLicExist": 1528523838000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 6,
+    "used_vie": 2
+  },
+  {
+    "logID": 5657,
+    "totalLicExist": 1528524138000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 6,
+    "used_vie": 2
+  },
+  {
+    "logID": 5658,
+    "totalLicExist": 1528524438000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 6,
+    "used_vie": 2
+  },
+  {
+    "logID": 5659,
+    "totalLicExist": 1528524738000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 6,
+    "used_vie": 2
+  },
+  {
+    "logID": 5660,
+    "totalLicExist": 1528525038000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 6,
+    "used_vie": 2
+  },
+  {
+    "logID": 5661,
+    "totalLicExist": 1528525338000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 6,
+    "used_vie": 2
+  },
+  {
+    "logID": 5662,
+    "totalLicExist": 1528525638000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 6,
+    "used_vie": 2
+  },
+  {
+    "logID": 5663,
+    "totalLicExist": 1528525938000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 6,
+    "used_vie": 2
+  },
+  {
+    "logID": 5664,
+    "totalLicExist": 1528526238000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 6,
+    "used_vie": 2
+  },
+  {
+    "logID": 5665,
+    "totalLicExist": 1528526538000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 6,
+    "used_vie": 2
+  },
+  {
+    "logID": 5666,
+    "totalLicExist": 1528526838000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 6,
+    "used_vie": 2
+  },
+  {
+    "logID": 5667,
+    "totalLicExist": 1528527139000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 6,
+    "used_vie": 2
+  },
+  {
+    "logID": 5668,
+    "totalLicExist": 1528527438000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 6,
+    "used_vie": 2
+  },
+  {
+    "logID": 5669,
+    "totalLicExist": 1528527738000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 6,
+    "used_vie": 2
+  },
+  {
+    "logID": 5670,
+    "totalLicExist": 1528528038000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 6,
+    "used_vie": 2
+  },
+  {
+    "logID": 5671,
+    "totalLicExist": 1528528338000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 6,
+    "used_vie": 2
+  },
+  {
+    "logID": 5672,
+    "totalLicExist": 1528528638000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 6,
+    "used_vie": 2
+  },
+  {
+    "logID": 5673,
+    "totalLicExist": 1528528938000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 6,
+    "used_vie": 2
+  },
+  {
+    "logID": 5674,
+    "totalLicExist": 1528529238000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 6,
+    "used_vie": 2
+  },
+  {
+    "logID": 5675,
+    "totalLicExist": 1528529538000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 6,
+    "used_vie": 2
+  },
+  {
+    "logID": 5676,
+    "totalLicExist": 1528529838000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 6,
+    "used_vie": 2
+  },
+  {
+    "logID": 5677,
+    "totalLicExist": 1528530138000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 6,
+    "used_vie": 2
+  },
+  {
+    "logID": 5678,
+    "totalLicExist": 1528530438000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 6,
+    "used_vie": 2
+  },
+  {
+    "logID": 5679,
+    "totalLicExist": 1528530739000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 6,
+    "used_vie": 2
+  },
+  {
+    "logID": 5680,
+    "totalLicExist": 1528531038000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 7,
+    "used_vie": 2
+  },
+  {
+    "logID": 5681,
+    "totalLicExist": 1528531338000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 7,
+    "used_vie": 2
+  },
+  {
+    "logID": 5682,
+    "totalLicExist": 1528531640000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 7,
+    "used_vie": 2
+  },
+  {
+    "logID": 5683,
+    "totalLicExist": 1528531938000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 7,
+    "used_vie": 2
+  },
+  {
+    "logID": 5684,
+    "totalLicExist": 1528532238000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 7,
+    "used_vie": 2
+  },
+  {
+    "logID": 5685,
+    "totalLicExist": 1528532538000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 7,
+    "used_vie": 2
+  },
+  {
+    "logID": 5686,
+    "totalLicExist": 1528532838000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 7,
+    "used_vie": 2
+  },
+  {
+    "logID": 5687,
+    "totalLicExist": 1528533138000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 7,
+    "used_vie": 2
+  },
+  {
+    "logID": 5688,
+    "totalLicExist": 1528533438000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 7,
+    "used_vie": 2
+  },
+  {
+    "logID": 5689,
+    "totalLicExist": 1528533738000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 7,
+    "used_vie": 2
+  },
+  {
+    "logID": 5690,
+    "totalLicExist": 1528534038000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 7,
+    "used_vie": 2
+  },
+  {
+    "logID": 5691,
+    "totalLicExist": 1528534338000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 7,
+    "used_vie": 2
+  },
+  {
+    "logID": 5692,
+    "totalLicExist": 1528534638000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 7,
+    "used_vie": 2
+  },
+  {
+    "logID": 5693,
+    "totalLicExist": 1528534938000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 7,
+    "used_vie": 2
+  },
+  {
+    "logID": 5694,
+    "totalLicExist": 1528535238000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 7,
+    "used_vie": 2
+  },
+  {
+    "logID": 5695,
+    "totalLicExist": 1528535538000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 7,
+    "used_vie": 2
+  },
+  {
+    "logID": 5696,
+    "totalLicExist": 1528535838000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 7,
+    "used_vie": 2
+  },
+  {
+    "logID": 5697,
+    "totalLicExist": 1528536138000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 7,
+    "used_vie": 2
+  },
+  {
+    "logID": 5698,
+    "totalLicExist": 1528536438000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 7,
+    "used_vie": 2
+  },
+  {
+    "logID": 5699,
+    "totalLicExist": 1528536738000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 7,
+    "used_vie": 2
+  },
+  {
+    "logID": 5700,
+    "totalLicExist": 1528537038000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 7,
+    "used_vie": 2
+  },
+  {
+    "logID": 5701,
+    "totalLicExist": 1528537341000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 7,
+    "used_vie": 2
+  },
+  {
+    "logID": 5702,
+    "totalLicExist": 1528537638000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 7,
+    "used_vie": 2
+  },
+  {
+    "logID": 5703,
+    "totalLicExist": 1528537938000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 7,
+    "used_vie": 2
+  },
+  {
+    "logID": 5704,
+    "totalLicExist": 1528538238000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 7,
+    "used_vie": 2
+  },
+  {
+    "logID": 5705,
+    "totalLicExist": 1528538538000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 7,
+    "used_vie": 2
+  },
+  {
+    "logID": 5706,
+    "totalLicExist": 1528538838000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 8,
+    "used_vie": 2
+  },
+  {
+    "logID": 5707,
+    "totalLicExist": 1528539138000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 8,
+    "used_vie": 2
+  },
+  {
+    "logID": 5708,
+    "totalLicExist": 1528539438000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 8,
+    "used_vie": 2
+  },
+  {
+    "logID": 5709,
+    "totalLicExist": 1528539738000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 8,
+    "used_vie": 2
+  },
+  {
+    "logID": 5710,
+    "totalLicExist": 1528540038000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 8,
+    "used_vie": 2
+  },
+  {
+    "logID": 5711,
+    "totalLicExist": 1528540338000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 8,
+    "used_vie": 2
+  },
+  {
+    "logID": 5712,
+    "totalLicExist": 1528540638000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 8,
+    "used_vie": 2
+  },
+  {
+    "logID": 5713,
+    "totalLicExist": 1528540938000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 8,
+    "used_vie": 2
+  },
+  {
+    "logID": 5714,
+    "totalLicExist": 1528541238000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 8,
+    "used_vie": 2
+  },
+  {
+    "logID": 5715,
+    "totalLicExist": 1528541539000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 8,
+    "used_vie": 2
+  },
+  {
+    "logID": 5716,
+    "totalLicExist": 1528541838000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 8,
+    "used_vie": 2
+  },
+  {
+    "logID": 5717,
+    "totalLicExist": 1528542139000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 8,
+    "used_vie": 2
+  },
+  {
+    "logID": 5718,
+    "totalLicExist": 1528542438000,
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 7,
+    "used_vie": 2
+  }
+ ]

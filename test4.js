@@ -1,7 +1,7 @@
 function getData() {
     $.ajax({
-        // url: 'https://api.myjson.com/bins/13nore',
-        url: 'test2.json',
+        url: 'https://api.myjson.com/bins/13nore',
+        // url: 'test2.json',
         type: 'GET',
         success: function(data) {
             var series = [{

@@ -1,7 +1,7 @@
 function getData() {
     $.ajax({
         // url: 'https://api.myjson.com/bins/13nore',
-     //   url: 'http://localhost:8080/rest/myProjectRest/logas',
+        //   url: 'http://localhost:8080/rest/myProjectRest/logas',
         url: 'data4.json',
         type: 'GET',
         success: function(data) {
@@ -10,19 +10,28 @@ function getData() {
             }];
 
             Highcharts.each(data, function(el) {
+                console.log(el);
                 series[0].data.push({
-                   // x: Date.parse(el.totalLicExist.substr(0,10)+'T'+el.totalLicExist.substr(11,8)),
-                    x: el.totalLicExist,
-                    y: el.used_pcd,
+                    x: el.to,
+                    y: el.up,
+
+
+
                 });
 
-                // series[1].data.push({
-                //
-                //     x: Date.parse(el.totalLicExist.substr(0,10)+'T'+el.totalLicExist.substr(11,8)),
-                //     y: el.all_cm,
-                // });
-
             });
+
+
+            // function formToJSON() {
+            //     return JSON.stringify({
+            //         "to": $('#to').val(),
+            //         "up": $('#up').val()
+            //
+            //
+            //     });
+            // };
+
+
 
             createChart(series);
         }
@@ -30,16 +39,23 @@ function getData() {
 }
 
 function createChart(series) {
-    Highcharts.chart('container', {
-        series: series,
-        chart: {
-            type: 'area'
+    Highcharts.stockChart('container', {
+        rangeSelector: {
+            selected: 1
         },
-        xAxis: {
-            type: 'datetime',
-        }
+        turboThreshold:0,
+        title: {
+            text: 'Tekla Precast Concrete Detailing License Usage'
+        },
+        series: series,
     });
 }
+
+
+
+
+
+
 
 Date.createFromMysql = function(mysql_string)
 {
@@ -57,3 +73,5 @@ Date.createFromMysql = function(mysql_string)
 }
 
 getData();
+
+

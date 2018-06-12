@@ -1,0 +1,5015 @@
+[
+  {
+    "logID": 230,
+    "totalLicExist": "2018-06-04T08:17:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 1,
+    "used_pcd": 12,
+    "used_vie": 5
+  },
+  {
+    "logID": 229,
+    "totalLicExist": "2018-06-04T08:12:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 1,
+    "used_pcd": 11,
+    "used_vie": 5
+  },
+  {
+    "logID": 228,
+    "totalLicExist": "2018-06-04T08:07:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 0,
+    "used_pcd": 11,
+    "used_vie": 4
+  },
+  {
+    "logID": 227,
+    "totalLicExist": "2018-06-04T08:02:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 0,
+    "used_pcd": 11,
+    "used_vie": 4
+  },
+  {
+    "logID": 226,
+    "totalLicExist": "2018-06-04T07:57:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 0,
+    "used_pcd": 9,
+    "used_vie": 3
+  },
+  {
+    "logID": 225,
+    "totalLicExist": "2018-06-04T07:52:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 0,
+    "used_pcd": 8,
+    "used_vie": 2
+  },
+  {
+    "logID": 224,
+    "totalLicExist": "2018-06-04T07:47:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 0,
+    "used_pcd": 8,
+    "used_vie": 2
+  },
+  {
+    "logID": 223,
+    "totalLicExist": "2018-06-04T07:42:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 0,
+    "used_pcd": 7,
+    "used_vie": 2
+  },
+  {
+    "logID": 222,
+    "totalLicExist": "2018-06-04T07:37:21+03:00",
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 221,
+    "totalLicExist": "2018-06-04T07:32:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 220,
+    "totalLicExist": "2018-06-04T07:27:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 5,
+    "used_vie": 2
+  },
+  {
+    "logID": 219,
+    "totalLicExist": "2018-06-04T07:22:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 4,
+    "used_vie": 2
+  },
+  {
+    "logID": 218,
+    "totalLicExist": "2018-06-04T07:17:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 2,
+    "used_vie": 2
+  },
+  {
+    "logID": 217,
+    "totalLicExist": "2018-06-04T07:12:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 2
+  },
+  {
+    "logID": 216,
+    "totalLicExist": "2018-06-04T07:07:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 2
+  },
+  {
+    "logID": 215,
+    "totalLicExist": "2018-06-04T07:02:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 2
+  },
+  {
+    "logID": 214,
+    "totalLicExist": "2018-06-04T06:57:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 2
+  },
+  {
+    "logID": 213,
+    "totalLicExist": "2018-06-04T06:52:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 2
+  },
+  {
+    "logID": 212,
+    "totalLicExist": "2018-06-04T06:47:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 2
+  },
+  {
+    "logID": 211,
+    "totalLicExist": "2018-06-04T06:42:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 1,
+    "used_vie": 2
+  },
+  {
+    "logID": 210,
+    "totalLicExist": "2018-06-04T06:37:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 1,
+    "used_vie": 2
+  },
+  {
+    "logID": 209,
+    "totalLicExist": "2018-06-04T06:32:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 208,
+    "totalLicExist": "2018-06-04T06:27:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 207,
+    "totalLicExist": "2018-06-04T06:22:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 206,
+    "totalLicExist": "2018-06-04T06:17:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 205,
+    "totalLicExist": "2018-06-04T06:12:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 2,
+    "used_vie": 1
+  },
+  {
+    "logID": 204,
+    "totalLicExist": "2018-06-04T06:07:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 2,
+    "used_vie": 1
+  },
+  {
+    "logID": 203,
+    "totalLicExist": "2018-06-04T06:02:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 2,
+    "used_vie": 1
+  },
+  {
+    "logID": 202,
+    "totalLicExist": "2018-06-04T05:57:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 2,
+    "used_vie": 1
+  },
+  {
+    "logID": 201,
+    "totalLicExist": "2018-06-04T05:52:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 200,
+    "totalLicExist": "2018-06-04T05:47:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 199,
+    "totalLicExist": "2018-06-04T05:42:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 198,
+    "totalLicExist": "2018-06-04T05:37:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 197,
+    "totalLicExist": "2018-06-04T05:32:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 196,
+    "totalLicExist": "2018-06-04T05:27:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 195,
+    "totalLicExist": "2018-06-04T05:22:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 194,
+    "totalLicExist": "2018-06-04T05:17:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 193,
+    "totalLicExist": "2018-06-04T05:12:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 192,
+    "totalLicExist": "2018-06-04T05:07:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 191,
+    "totalLicExist": "2018-06-04T05:02:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 190,
+    "totalLicExist": "2018-06-04T04:57:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 189,
+    "totalLicExist": "2018-06-04T04:52:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 188,
+    "totalLicExist": "2018-06-04T04:47:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 187,
+    "totalLicExist": "2018-06-04T04:42:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 186,
+    "totalLicExist": "2018-06-04T04:37:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 185,
+    "totalLicExist": "2018-06-04T04:32:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 184,
+    "totalLicExist": "2018-06-04T04:27:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 183,
+    "totalLicExist": "2018-06-04T04:22:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 182,
+    "totalLicExist": "2018-06-04T04:17:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 181,
+    "totalLicExist": "2018-06-04T04:12:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 180,
+    "totalLicExist": "2018-06-04T04:07:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 179,
+    "totalLicExist": "2018-06-04T04:02:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 178,
+    "totalLicExist": "2018-06-04T03:57:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 177,
+    "totalLicExist": "2018-06-04T03:52:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 176,
+    "totalLicExist": "2018-06-04T03:47:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 175,
+    "totalLicExist": "2018-06-04T03:42:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 174,
+    "totalLicExist": "2018-06-04T03:37:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 173,
+    "totalLicExist": "2018-06-04T03:32:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 172,
+    "totalLicExist": "2018-06-04T03:27:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 171,
+    "totalLicExist": "2018-06-04T03:22:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 170,
+    "totalLicExist": "2018-06-04T03:17:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 169,
+    "totalLicExist": "2018-06-04T03:12:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 168,
+    "totalLicExist": "2018-06-04T03:07:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 167,
+    "totalLicExist": "2018-06-04T03:02:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 166,
+    "totalLicExist": "2018-06-04T02:57:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 165,
+    "totalLicExist": "2018-06-04T02:52:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 164,
+    "totalLicExist": "2018-06-04T02:47:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 163,
+    "totalLicExist": "2018-06-04T02:42:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 162,
+    "totalLicExist": "2018-06-04T02:37:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 161,
+    "totalLicExist": "2018-06-04T02:32:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 160,
+    "totalLicExist": "2018-06-04T02:27:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 159,
+    "totalLicExist": "2018-06-04T02:22:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 158,
+    "totalLicExist": "2018-06-04T02:17:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 157,
+    "totalLicExist": "2018-06-04T02:12:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 156,
+    "totalLicExist": "2018-06-04T02:07:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 155,
+    "totalLicExist": "2018-06-04T02:02:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 154,
+    "totalLicExist": "2018-06-04T01:57:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 153,
+    "totalLicExist": "2018-06-04T01:52:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 152,
+    "totalLicExist": "2018-06-04T01:47:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 151,
+    "totalLicExist": "2018-06-04T01:42:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 150,
+    "totalLicExist": "2018-06-04T01:37:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 149,
+    "totalLicExist": "2018-06-04T01:32:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 148,
+    "totalLicExist": "2018-06-04T01:27:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 147,
+    "totalLicExist": "2018-06-04T01:22:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 146,
+    "totalLicExist": "2018-06-04T01:17:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 145,
+    "totalLicExist": "2018-06-04T01:12:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 144,
+    "totalLicExist": "2018-06-04T01:07:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 143,
+    "totalLicExist": "2018-06-04T01:02:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 142,
+    "totalLicExist": "2018-06-04T00:57:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 141,
+    "totalLicExist": "2018-06-04T00:52:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 140,
+    "totalLicExist": "2018-06-04T00:47:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 139,
+    "totalLicExist": "2018-06-04T00:42:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 138,
+    "totalLicExist": "2018-06-04T00:37:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 137,
+    "totalLicExist": "2018-06-04T00:32:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 136,
+    "totalLicExist": "2018-06-04T00:27:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 0,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 135,
+    "totalLicExist": "2018-06-04T00:22:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 134,
+    "totalLicExist": "2018-06-04T00:17:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 133,
+    "totalLicExist": "2018-06-04T00:12:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 132,
+    "totalLicExist": "2018-06-04T00:07:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 131,
+    "totalLicExist": "2018-06-04T00:02:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 130,
+    "totalLicExist": "2018-06-04T00:17:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 129,
+    "totalLicExist": "2018-06-04T00:12:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 128,
+    "totalLicExist": "2018-06-04T00:07:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 127,
+    "totalLicExist": "2018-06-04T00:02:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 0,
+    "used_fud": 1,
+    "used_pcd": 1,
+    "used_vie": 1
+  },
+  {
+    "logID": 231,
+    "totalLicExist": "2018-06-04T08:22:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 1,
+    "used_pcd": 15,
+    "used_vie": 6
+  },
+  {
+    "logID": 232,
+    "totalLicExist": "2018-06-04T08:27:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 1,
+    "used_pcd": 15,
+    "used_vie": 5
+  },
+  {
+    "logID": 233,
+    "totalLicExist": "2018-06-04T08:32:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 1,
+    "used_fud": 2,
+    "used_pcd": 15,
+    "used_vie": 6
+  },
+  {
+    "logID": 234,
+    "totalLicExist": "2018-06-04T08:37:20+03:00",
+    "used_cm": 0,
+    "used_dfr": 3,
+    "used_fud": 2,
+    "used_pcd": 15,
+    "used_vie": 8
+  },
+  {
+    "logID": 235,
+    "totalLicExist": "2018-06-04T08:42:20+03:00",
+    "used_cm": 0,
+    "used_dfr": 3,
+    "used_fud": 2,
+    "used_pcd": 16,
+    "used_vie": 9
+  },
+  {
+    "logID": 236,
+    "totalLicExist": "2018-06-04T08:47:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 3,
+    "used_fud": 2,
+    "used_pcd": 17,
+    "used_vie": 8
+  },
+  {
+    "logID": 237,
+    "totalLicExist": "2018-06-04T08:52:24+03:00",
+    "used_cm": 0,
+    "used_dfr": 8,
+    "used_fud": 2,
+    "used_pcd": 23,
+    "used_vie": 9
+  },
+  {
+    "logID": 238,
+    "totalLicExist": "2018-06-04T08:57:26+03:00",
+    "used_cm": 0,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 38,
+    "used_vie": 9
+  },
+  {
+    "logID": 239,
+    "totalLicExist": "2018-06-04T09:02:20+03:00",
+    "used_cm": 0,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 41,
+    "used_vie": 10
+  },
+  {
+    "logID": 240,
+    "totalLicExist": "2018-06-04T09:07:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 43,
+    "used_vie": 11
+  },
+  {
+    "logID": 241,
+    "totalLicExist": "2018-06-04T09:12:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 45,
+    "used_vie": 12
+  },
+  {
+    "logID": 242,
+    "totalLicExist": "2018-06-04T09:17:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 45,
+    "used_vie": 13
+  },
+  {
+    "logID": 243,
+    "totalLicExist": "2018-06-04T09:22:27+03:00",
+    "used_cm": 0,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 45,
+    "used_vie": 14
+  },
+  {
+    "logID": 244,
+    "totalLicExist": "2018-06-04T09:27:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 46,
+    "used_vie": 14
+  },
+  {
+    "logID": 245,
+    "totalLicExist": "2018-06-04T09:32:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 14
+  },
+  {
+    "logID": 246,
+    "totalLicExist": "2018-06-04T09:37:27+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 14
+  },
+  {
+    "logID": 247,
+    "totalLicExist": "2018-06-04T09:42:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 14
+  },
+  {
+    "logID": 248,
+    "totalLicExist": "2018-06-04T09:47:24+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 15
+  },
+  {
+    "logID": 249,
+    "totalLicExist": "2018-06-04T09:52:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 15
+  },
+  {
+    "logID": 250,
+    "totalLicExist": "2018-06-04T09:57:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 16
+  },
+  {
+    "logID": 251,
+    "totalLicExist": "2018-06-04T10:02:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 16
+  },
+  {
+    "logID": 252,
+    "totalLicExist": "2018-06-04T10:07:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 16
+  },
+  {
+    "logID": 253,
+    "totalLicExist": "2018-06-04T10:12:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 17
+  },
+  {
+    "logID": 254,
+    "totalLicExist": "2018-06-04T10:17:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 16
+  },
+  {
+    "logID": 255,
+    "totalLicExist": "2018-06-04T10:22:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 17
+  },
+  {
+    "logID": 256,
+    "totalLicExist": "2018-06-04T10:27:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 11,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 16
+  },
+  {
+    "logID": 257,
+    "totalLicExist": "2018-06-04T10:32:20+03:00",
+    "used_cm": 0,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 16
+  },
+  {
+    "logID": 258,
+    "totalLicExist": "2018-06-04T10:37:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 16
+  },
+  {
+    "logID": 259,
+    "totalLicExist": "2018-06-04T10:42:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 16
+  },
+  {
+    "logID": 260,
+    "totalLicExist": "2018-06-04T10:47:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 16
+  },
+  {
+    "logID": 261,
+    "totalLicExist": "2018-06-04T10:52:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 16
+  },
+  {
+    "logID": 262,
+    "totalLicExist": "2018-06-04T10:57:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 16
+  },
+  {
+    "logID": 263,
+    "totalLicExist": "2018-06-04T11:03:32+03:00",
+    "used_cm": 0,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 16
+  },
+  {
+    "logID": 264,
+    "totalLicExist": "2018-06-04T11:07:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 16
+  },
+  {
+    "logID": 265,
+    "totalLicExist": "2018-06-04T11:12:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 11,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 16
+  },
+  {
+    "logID": 266,
+    "totalLicExist": "2018-06-04T11:17:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 11,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 16
+  },
+  {
+    "logID": 267,
+    "totalLicExist": "2018-06-04T11:22:23+03:00",
+    "used_cm": 0,
+    "used_dfr": 10,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 16
+  },
+  {
+    "logID": 268,
+    "totalLicExist": "2018-06-04T11:27:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 17
+  },
+  {
+    "logID": 269,
+    "totalLicExist": "2018-06-04T11:32:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 11,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 18
+  },
+  {
+    "logID": 270,
+    "totalLicExist": "2018-06-04T11:37:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 11,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 18
+  },
+  {
+    "logID": 271,
+    "totalLicExist": "2018-06-04T11:42:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 11,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 18
+  },
+  {
+    "logID": 272,
+    "totalLicExist": "2018-06-04T11:47:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 18
+  },
+  {
+    "logID": 273,
+    "totalLicExist": "2018-06-04T11:52:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 18
+  },
+  {
+    "logID": 274,
+    "totalLicExist": "2018-06-04T11:57:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 18
+  },
+  {
+    "logID": 275,
+    "totalLicExist": "2018-06-04T12:02:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 18
+  },
+  {
+    "logID": 276,
+    "totalLicExist": "2018-06-04T12:07:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 18
+  },
+  {
+    "logID": 277,
+    "totalLicExist": "2018-06-04T12:12:26+03:00",
+    "used_cm": 1,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 18
+  },
+  {
+    "logID": 278,
+    "totalLicExist": "2018-06-04T12:17:24+03:00",
+    "used_cm": 1,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 18
+  },
+  {
+    "logID": 279,
+    "totalLicExist": "2018-06-04T12:22:22+03:00",
+    "used_cm": 1,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 18
+  },
+  {
+    "logID": 280,
+    "totalLicExist": "2018-06-04T12:27:20+03:00",
+    "used_cm": 1,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 18
+  },
+  {
+    "logID": 281,
+    "totalLicExist": "2018-06-04T12:32:23+03:00",
+    "used_cm": 1,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 18
+  },
+  {
+    "logID": 282,
+    "totalLicExist": "2018-06-04T12:37:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 18
+  },
+  {
+    "logID": 283,
+    "totalLicExist": "2018-06-04T12:42:23+03:00",
+    "used_cm": 1,
+    "used_dfr": 11,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 18
+  },
+  {
+    "logID": 284,
+    "totalLicExist": "2018-06-04T12:47:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 11,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 17
+  },
+  {
+    "logID": 285,
+    "totalLicExist": "2018-06-04T12:52:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 11,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 17
+  },
+  {
+    "logID": 286,
+    "totalLicExist": "2018-06-04T12:57:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 11,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 17
+  },
+  {
+    "logID": 287,
+    "totalLicExist": "2018-06-04T13:02:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 11,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 17
+  },
+  {
+    "logID": 288,
+    "totalLicExist": "2018-06-04T13:07:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 10,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 17
+  },
+  {
+    "logID": 289,
+    "totalLicExist": "2018-06-04T13:12:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 11,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 17
+  },
+  {
+    "logID": 290,
+    "totalLicExist": "2018-06-04T13:17:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 11,
+    "used_fud": 3,
+    "used_pcd": 47,
+    "used_vie": 17
+  },
+  {
+    "logID": 291,
+    "totalLicExist": "2018-06-04T13:22:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 11,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 17
+  },
+  {
+    "logID": 292,
+    "totalLicExist": "2018-06-04T13:27:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 11,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 17
+  },
+  {
+    "logID": 293,
+    "totalLicExist": "2018-06-04T13:32:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 10,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 19
+  },
+  {
+    "logID": 294,
+    "totalLicExist": "2018-06-04T13:37:23+03:00",
+    "used_cm": 1,
+    "used_dfr": 10,
+    "used_fud": 3,
+    "used_pcd": 47,
+    "used_vie": 18
+  },
+  {
+    "logID": 295,
+    "totalLicExist": "2018-06-04T13:42:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 10,
+    "used_fud": 3,
+    "used_pcd": 47,
+    "used_vie": 18
+  },
+  {
+    "logID": 296,
+    "totalLicExist": "2018-06-04T13:47:23+03:00",
+    "used_cm": 1,
+    "used_dfr": 10,
+    "used_fud": 3,
+    "used_pcd": 47,
+    "used_vie": 18
+  },
+  {
+    "logID": 297,
+    "totalLicExist": "2018-06-04T13:52:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 10,
+    "used_fud": 3,
+    "used_pcd": 47,
+    "used_vie": 18
+  },
+  {
+    "logID": 298,
+    "totalLicExist": "2018-06-04T13:57:20+03:00",
+    "used_cm": 1,
+    "used_dfr": 10,
+    "used_fud": 3,
+    "used_pcd": 47,
+    "used_vie": 18
+  },
+  {
+    "logID": 299,
+    "totalLicExist": "2018-06-04T14:02:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 10,
+    "used_fud": 3,
+    "used_pcd": 47,
+    "used_vie": 18
+  },
+  {
+    "logID": 300,
+    "totalLicExist": "2018-06-04T14:07:23+03:00",
+    "used_cm": 1,
+    "used_dfr": 10,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 18
+  },
+  {
+    "logID": 301,
+    "totalLicExist": "2018-06-04T14:12:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 10,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 19
+  },
+  {
+    "logID": 302,
+    "totalLicExist": "2018-06-04T14:17:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 10,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 19
+  },
+  {
+    "logID": 303,
+    "totalLicExist": "2018-06-04T14:22:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 10,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 19
+  },
+  {
+    "logID": 304,
+    "totalLicExist": "2018-06-04T14:27:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 10,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 19
+  },
+  {
+    "logID": 305,
+    "totalLicExist": "2018-06-04T14:32:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 10,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 19
+  },
+  {
+    "logID": 306,
+    "totalLicExist": "2018-06-04T14:37:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 10,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 20
+  },
+  {
+    "logID": 307,
+    "totalLicExist": "2018-06-04T14:42:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 10,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 20
+  },
+  {
+    "logID": 308,
+    "totalLicExist": "2018-06-04T14:47:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 10,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 20
+  },
+  {
+    "logID": 309,
+    "totalLicExist": "2018-06-04T14:52:20+03:00",
+    "used_cm": 1,
+    "used_dfr": 10,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 20
+  },
+  {
+    "logID": 310,
+    "totalLicExist": "2018-06-04T14:57:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 10,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 20
+  },
+  {
+    "logID": 311,
+    "totalLicExist": "2018-06-04T15:02:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 10,
+    "used_fud": 3,
+    "used_pcd": 47,
+    "used_vie": 20
+  },
+  {
+    "logID": 312,
+    "totalLicExist": "2018-06-04T15:07:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 10,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 20
+  },
+  {
+    "logID": 313,
+    "totalLicExist": "2018-06-04T15:12:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 10,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 20
+  },
+  {
+    "logID": 314,
+    "totalLicExist": "2018-06-04T15:17:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 10,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 20
+  },
+  {
+    "logID": 315,
+    "totalLicExist": "2018-06-04T15:22:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 11,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 20
+  },
+  {
+    "logID": 316,
+    "totalLicExist": "2018-06-04T15:27:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 11,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 20
+  },
+  {
+    "logID": 317,
+    "totalLicExist": "2018-06-04T15:32:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 11,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 20
+  },
+  {
+    "logID": 318,
+    "totalLicExist": "2018-06-04T15:37:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 11,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 21
+  },
+  {
+    "logID": 319,
+    "totalLicExist": "2018-06-04T15:42:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 11,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 21
+  },
+  {
+    "logID": 320,
+    "totalLicExist": "2018-06-04T15:47:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 11,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 21
+  },
+  {
+    "logID": 321,
+    "totalLicExist": "2018-06-04T15:52:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 21
+  },
+  {
+    "logID": 322,
+    "totalLicExist": "2018-06-04T15:57:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 47,
+    "used_vie": 21
+  },
+  {
+    "logID": 323,
+    "totalLicExist": "2018-06-04T16:02:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 11,
+    "used_fud": 3,
+    "used_pcd": 45,
+    "used_vie": 18
+  },
+  {
+    "logID": 324,
+    "totalLicExist": "2018-06-04T16:07:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 11,
+    "used_fud": 2,
+    "used_pcd": 44,
+    "used_vie": 18
+  },
+  {
+    "logID": 325,
+    "totalLicExist": "2018-06-04T16:12:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 11,
+    "used_fud": 2,
+    "used_pcd": 45,
+    "used_vie": 17
+  },
+  {
+    "logID": 326,
+    "totalLicExist": "2018-06-04T16:17:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 11,
+    "used_fud": 2,
+    "used_pcd": 45,
+    "used_vie": 16
+  },
+  {
+    "logID": 327,
+    "totalLicExist": "2018-06-04T16:22:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 10,
+    "used_fud": 2,
+    "used_pcd": 43,
+    "used_vie": 16
+  },
+  {
+    "logID": 328,
+    "totalLicExist": "2018-06-04T16:27:23+03:00",
+    "used_cm": 1,
+    "used_dfr": 9,
+    "used_fud": 1,
+    "used_pcd": 41,
+    "used_vie": 15
+  },
+  {
+    "logID": 329,
+    "totalLicExist": "2018-06-04T16:32:23+03:00",
+    "used_cm": 1,
+    "used_dfr": 8,
+    "used_fud": 1,
+    "used_pcd": 40,
+    "used_vie": 14
+  },
+  {
+    "logID": 330,
+    "totalLicExist": "2018-06-04T16:37:26+03:00",
+    "used_cm": 0,
+    "used_dfr": 8,
+    "used_fud": 1,
+    "used_pcd": 41,
+    "used_vie": 14
+  },
+  {
+    "logID": 331,
+    "totalLicExist": "2018-06-04T16:42:20+03:00",
+    "used_cm": 0,
+    "used_dfr": 8,
+    "used_fud": 2,
+    "used_pcd": 42,
+    "used_vie": 13
+  },
+  {
+    "logID": 332,
+    "totalLicExist": "2018-06-04T16:47:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 7,
+    "used_fud": 2,
+    "used_pcd": 42,
+    "used_vie": 12
+  },
+  {
+    "logID": 333,
+    "totalLicExist": "2018-06-04T16:52:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 7,
+    "used_fud": 2,
+    "used_pcd": 41,
+    "used_vie": 12
+  },
+  {
+    "logID": 334,
+    "totalLicExist": "2018-06-04T16:57:23+03:00",
+    "used_cm": 0,
+    "used_dfr": 7,
+    "used_fud": 2,
+    "used_pcd": 41,
+    "used_vie": 12
+  },
+  {
+    "logID": 335,
+    "totalLicExist": "2018-06-04T17:02:20+03:00",
+    "used_cm": 0,
+    "used_dfr": 7,
+    "used_fud": 3,
+    "used_pcd": 41,
+    "used_vie": 12
+  },
+  {
+    "logID": 336,
+    "totalLicExist": "2018-06-04T17:07:20+03:00",
+    "used_cm": 0,
+    "used_dfr": 7,
+    "used_fud": 3,
+    "used_pcd": 40,
+    "used_vie": 12
+  },
+  {
+    "logID": 337,
+    "totalLicExist": "2018-06-04T17:12:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 7,
+    "used_fud": 3,
+    "used_pcd": 42,
+    "used_vie": 11
+  },
+  {
+    "logID": 338,
+    "totalLicExist": "2018-06-04T17:17:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 7,
+    "used_fud": 3,
+    "used_pcd": 40,
+    "used_vie": 11
+  },
+  {
+    "logID": 339,
+    "totalLicExist": "2018-06-04T17:22:22+03:00",
+    "used_cm": 0,
+    "used_dfr": 7,
+    "used_fud": 3,
+    "used_pcd": 40,
+    "used_vie": 12
+  },
+  {
+    "logID": 340,
+    "totalLicExist": "2018-06-04T17:27:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 7,
+    "used_fud": 3,
+    "used_pcd": 40,
+    "used_vie": 12
+  },
+  {
+    "logID": 341,
+    "totalLicExist": "2018-06-04T17:32:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 7,
+    "used_fud": 3,
+    "used_pcd": 37,
+    "used_vie": 11
+  },
+  {
+    "logID": 342,
+    "totalLicExist": "2018-06-04T17:37:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 8,
+    "used_fud": 3,
+    "used_pcd": 38,
+    "used_vie": 11
+  },
+  {
+    "logID": 343,
+    "totalLicExist": "2018-06-04T17:42:20+03:00",
+    "used_cm": 0,
+    "used_dfr": 6,
+    "used_fud": 3,
+    "used_pcd": 38,
+    "used_vie": 11
+  },
+  {
+    "logID": 344,
+    "totalLicExist": "2018-06-04T17:47:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 6,
+    "used_fud": 3,
+    "used_pcd": 37,
+    "used_vie": 11
+  },
+  {
+    "logID": 345,
+    "totalLicExist": "2018-06-04T17:52:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 6,
+    "used_fud": 3,
+    "used_pcd": 35,
+    "used_vie": 10
+  },
+  {
+    "logID": 346,
+    "totalLicExist": "2018-06-04T17:57:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 5,
+    "used_fud": 3,
+    "used_pcd": 35,
+    "used_vie": 9
+  },
+  {
+    "logID": 347,
+    "totalLicExist": "2018-06-04T18:02:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 5,
+    "used_fud": 3,
+    "used_pcd": 34,
+    "used_vie": 9
+  },
+  {
+    "logID": 348,
+    "totalLicExist": "2018-06-04T18:07:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 5,
+    "used_fud": 3,
+    "used_pcd": 33,
+    "used_vie": 9
+  },
+  {
+    "logID": 349,
+    "totalLicExist": "2018-06-04T18:12:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 5,
+    "used_fud": 3,
+    "used_pcd": 31,
+    "used_vie": 9
+  },
+  {
+    "logID": 350,
+    "totalLicExist": "2018-06-04T18:17:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 6,
+    "used_fud": 3,
+    "used_pcd": 29,
+    "used_vie": 8
+  },
+  {
+    "logID": 351,
+    "totalLicExist": "2018-06-04T18:22:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 6,
+    "used_fud": 3,
+    "used_pcd": 29,
+    "used_vie": 7
+  },
+  {
+    "logID": 352,
+    "totalLicExist": "2018-06-04T18:27:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 6,
+    "used_fud": 3,
+    "used_pcd": 28,
+    "used_vie": 7
+  },
+  {
+    "logID": 353,
+    "totalLicExist": "2018-06-04T18:32:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 6,
+    "used_fud": 2,
+    "used_pcd": 28,
+    "used_vie": 7
+  },
+  {
+    "logID": 354,
+    "totalLicExist": "2018-06-04T18:37:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 6,
+    "used_fud": 2,
+    "used_pcd": 27,
+    "used_vie": 6
+  },
+  {
+    "logID": 355,
+    "totalLicExist": "2018-06-04T18:42:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 6,
+    "used_fud": 2,
+    "used_pcd": 27,
+    "used_vie": 6
+  },
+  {
+    "logID": 356,
+    "totalLicExist": "2018-06-04T18:47:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 5,
+    "used_fud": 2,
+    "used_pcd": 27,
+    "used_vie": 6
+  },
+  {
+    "logID": 357,
+    "totalLicExist": "2018-06-04T18:52:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 4,
+    "used_fud": 2,
+    "used_pcd": 27,
+    "used_vie": 5
+  },
+  {
+    "logID": 358,
+    "totalLicExist": "2018-06-04T18:57:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 4,
+    "used_fud": 2,
+    "used_pcd": 26,
+    "used_vie": 5
+  },
+  {
+    "logID": 359,
+    "totalLicExist": "2018-06-04T19:02:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 4,
+    "used_fud": 3,
+    "used_pcd": 25,
+    "used_vie": 4
+  },
+  {
+    "logID": 360,
+    "totalLicExist": "2018-06-04T19:07:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 4,
+    "used_fud": 3,
+    "used_pcd": 24,
+    "used_vie": 4
+  },
+  {
+    "logID": 361,
+    "totalLicExist": "2018-06-04T19:12:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 4,
+    "used_fud": 3,
+    "used_pcd": 25,
+    "used_vie": 4
+  },
+  {
+    "logID": 362,
+    "totalLicExist": "2018-06-04T19:17:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 4,
+    "used_fud": 3,
+    "used_pcd": 23,
+    "used_vie": 4
+  },
+  {
+    "logID": 363,
+    "totalLicExist": "2018-06-04T19:22:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 4,
+    "used_fud": 3,
+    "used_pcd": 24,
+    "used_vie": 4
+  },
+  {
+    "logID": 364,
+    "totalLicExist": "2018-06-04T19:27:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 4,
+    "used_fud": 3,
+    "used_pcd": 23,
+    "used_vie": 4
+  },
+  {
+    "logID": 365,
+    "totalLicExist": "2018-06-04T19:32:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 4,
+    "used_fud": 3,
+    "used_pcd": 22,
+    "used_vie": 4
+  },
+  {
+    "logID": 366,
+    "totalLicExist": "2018-06-04T19:37:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 4,
+    "used_fud": 3,
+    "used_pcd": 23,
+    "used_vie": 4
+  },
+  {
+    "logID": 367,
+    "totalLicExist": "2018-06-04T19:42:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 4,
+    "used_fud": 3,
+    "used_pcd": 22,
+    "used_vie": 4
+  },
+  {
+    "logID": 368,
+    "totalLicExist": "2018-06-04T19:47:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 4,
+    "used_fud": 3,
+    "used_pcd": 22,
+    "used_vie": 4
+  },
+  {
+    "logID": 369,
+    "totalLicExist": "2018-06-04T19:52:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 4,
+    "used_fud": 3,
+    "used_pcd": 21,
+    "used_vie": 4
+  },
+  {
+    "logID": 370,
+    "totalLicExist": "2018-06-04T19:57:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 4,
+    "used_fud": 3,
+    "used_pcd": 21,
+    "used_vie": 4
+  },
+  {
+    "logID": 371,
+    "totalLicExist": "2018-06-04T20:02:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 4,
+    "used_fud": 3,
+    "used_pcd": 21,
+    "used_vie": 4
+  },
+  {
+    "logID": 372,
+    "totalLicExist": "2018-06-04T20:07:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 4,
+    "used_fud": 3,
+    "used_pcd": 21,
+    "used_vie": 4
+  },
+  {
+    "logID": 373,
+    "totalLicExist": "2018-06-04T20:12:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 4,
+    "used_fud": 3,
+    "used_pcd": 21,
+    "used_vie": 4
+  },
+  {
+    "logID": 374,
+    "totalLicExist": "2018-06-04T20:17:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 3,
+    "used_fud": 3,
+    "used_pcd": 21,
+    "used_vie": 4
+  },
+  {
+    "logID": 375,
+    "totalLicExist": "2018-06-04T20:22:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 3,
+    "used_fud": 3,
+    "used_pcd": 22,
+    "used_vie": 4
+  },
+  {
+    "logID": 376,
+    "totalLicExist": "2018-06-04T20:27:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 3,
+    "used_fud": 3,
+    "used_pcd": 21,
+    "used_vie": 4
+  },
+  {
+    "logID": 377,
+    "totalLicExist": "2018-06-04T20:32:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 3,
+    "used_fud": 3,
+    "used_pcd": 21,
+    "used_vie": 5
+  },
+  {
+    "logID": 378,
+    "totalLicExist": "2018-06-04T20:37:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 3,
+    "used_fud": 3,
+    "used_pcd": 21,
+    "used_vie": 5
+  },
+  {
+    "logID": 379,
+    "totalLicExist": "2018-06-04T20:42:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 3,
+    "used_fud": 3,
+    "used_pcd": 21,
+    "used_vie": 5
+  },
+  {
+    "logID": 380,
+    "totalLicExist": "2018-06-04T20:47:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 3,
+    "used_fud": 3,
+    "used_pcd": 21,
+    "used_vie": 5
+  },
+  {
+    "logID": 381,
+    "totalLicExist": "2018-06-04T20:52:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 3,
+    "used_fud": 3,
+    "used_pcd": 20,
+    "used_vie": 5
+  },
+  {
+    "logID": 382,
+    "totalLicExist": "2018-06-04T20:57:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 3,
+    "used_fud": 3,
+    "used_pcd": 21,
+    "used_vie": 5
+  },
+  {
+    "logID": 383,
+    "totalLicExist": "2018-06-04T21:07:22+03:00",
+    "used_cm": 0,
+    "used_dfr": 3,
+    "used_fud": 3,
+    "used_pcd": 21,
+    "used_vie": 4
+  },
+  {
+    "logID": 384,
+    "totalLicExist": "2018-06-04T21:13:27+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 3,
+    "used_pcd": 21,
+    "used_vie": 4
+  },
+  {
+    "logID": 385,
+    "totalLicExist": "2018-06-04T21:17:20+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 3,
+    "used_pcd": 21,
+    "used_vie": 4
+  },
+  {
+    "logID": 386,
+    "totalLicExist": "2018-06-04T21:22:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 3,
+    "used_pcd": 20,
+    "used_vie": 4
+  },
+  {
+    "logID": 387,
+    "totalLicExist": "2018-06-04T21:27:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 3,
+    "used_pcd": 18,
+    "used_vie": 4
+  },
+  {
+    "logID": 388,
+    "totalLicExist": "2018-06-04T21:32:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 3,
+    "used_pcd": 18,
+    "used_vie": 4
+  },
+  {
+    "logID": 389,
+    "totalLicExist": "2018-06-04T21:37:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 3,
+    "used_pcd": 18,
+    "used_vie": 4
+  },
+  {
+    "logID": 390,
+    "totalLicExist": "2018-06-04T21:42:31+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 18,
+    "used_vie": 4
+  },
+  {
+    "logID": 391,
+    "totalLicExist": "2018-06-04T21:47:37+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 18,
+    "used_vie": 4
+  },
+  {
+    "logID": 392,
+    "totalLicExist": "2018-06-04T21:52:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 3,
+    "used_pcd": 17,
+    "used_vie": 4
+  },
+  {
+    "logID": 393,
+    "totalLicExist": "2018-06-04T21:57:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 3,
+    "used_pcd": 17,
+    "used_vie": 4
+  },
+  {
+    "logID": 394,
+    "totalLicExist": "2018-06-04T22:02:20+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 3,
+    "used_pcd": 17,
+    "used_vie": 4
+  },
+  {
+    "logID": 395,
+    "totalLicExist": "2018-06-04T22:07:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 3,
+    "used_pcd": 17,
+    "used_vie": 5
+  },
+  {
+    "logID": 396,
+    "totalLicExist": "2018-06-04T22:12:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 3,
+    "used_pcd": 17,
+    "used_vie": 5
+  },
+  {
+    "logID": 397,
+    "totalLicExist": "2018-06-04T22:17:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 3,
+    "used_pcd": 17,
+    "used_vie": 5
+  },
+  {
+    "logID": 398,
+    "totalLicExist": "2018-06-04T22:22:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 3,
+    "used_pcd": 17,
+    "used_vie": 5
+  },
+  {
+    "logID": 399,
+    "totalLicExist": "2018-06-04T22:27:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 3,
+    "used_pcd": 17,
+    "used_vie": 5
+  },
+  {
+    "logID": 400,
+    "totalLicExist": "2018-06-04T22:32:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 3,
+    "used_pcd": 17,
+    "used_vie": 5
+  },
+  {
+    "logID": 401,
+    "totalLicExist": "2018-06-04T22:37:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 3,
+    "used_pcd": 17,
+    "used_vie": 5
+  },
+  {
+    "logID": 402,
+    "totalLicExist": "2018-06-04T22:42:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 3,
+    "used_pcd": 17,
+    "used_vie": 4
+  },
+  {
+    "logID": 403,
+    "totalLicExist": "2018-06-04T22:47:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 18,
+    "used_vie": 4
+  },
+  {
+    "logID": 404,
+    "totalLicExist": "2018-06-04T22:52:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 3,
+    "used_pcd": 18,
+    "used_vie": 4
+  },
+  {
+    "logID": 405,
+    "totalLicExist": "2018-06-04T22:57:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 3,
+    "used_pcd": 18,
+    "used_vie": 4
+  },
+  {
+    "logID": 406,
+    "totalLicExist": "2018-06-04T23:02:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 3,
+    "used_pcd": 18,
+    "used_vie": 4
+  },
+  {
+    "logID": 407,
+    "totalLicExist": "2018-06-04T23:07:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 18,
+    "used_vie": 4
+  },
+  {
+    "logID": 408,
+    "totalLicExist": "2018-06-04T23:12:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 18,
+    "used_vie": 4
+  },
+  {
+    "logID": 409,
+    "totalLicExist": "2018-06-04T23:17:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 18,
+    "used_vie": 4
+  },
+  {
+    "logID": 410,
+    "totalLicExist": "2018-06-04T23:22:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 17,
+    "used_vie": 4
+  },
+  {
+    "logID": 411,
+    "totalLicExist": "2018-06-04T23:27:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 17,
+    "used_vie": 4
+  },
+  {
+    "logID": 412,
+    "totalLicExist": "2018-06-04T23:32:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 17,
+    "used_vie": 4
+  },
+  {
+    "logID": 413,
+    "totalLicExist": "2018-06-04T23:37:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 17,
+    "used_vie": 4
+  },
+  {
+    "logID": 414,
+    "totalLicExist": "2018-06-04T23:42:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 17,
+    "used_vie": 4
+  },
+  {
+    "logID": 415,
+    "totalLicExist": "2018-06-04T23:47:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 17,
+    "used_vie": 4
+  },
+  {
+    "logID": 416,
+    "totalLicExist": "2018-06-04T23:52:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 17,
+    "used_vie": 4
+  },
+  {
+    "logID": 417,
+    "totalLicExist": "2018-06-04T23:57:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 17,
+    "used_vie": 4
+  },
+  {
+    "logID": 418,
+    "totalLicExist": "2018-06-05T00:02:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 16,
+    "used_vie": 4
+  },
+  {
+    "logID": 419,
+    "totalLicExist": "2018-06-05T00:07:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 16,
+    "used_vie": 4
+  },
+  {
+    "logID": 420,
+    "totalLicExist": "2018-06-05T00:12:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 16,
+    "used_vie": 4
+  },
+  {
+    "logID": 421,
+    "totalLicExist": "2018-06-05T00:17:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 16,
+    "used_vie": 4
+  },
+  {
+    "logID": 422,
+    "totalLicExist": "2018-06-05T00:22:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 16,
+    "used_vie": 4
+  },
+  {
+    "logID": 423,
+    "totalLicExist": "2018-06-05T00:27:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 16,
+    "used_vie": 4
+  },
+  {
+    "logID": 424,
+    "totalLicExist": "2018-06-05T00:32:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 16,
+    "used_vie": 4
+  },
+  {
+    "logID": 425,
+    "totalLicExist": "2018-06-05T00:37:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 16,
+    "used_vie": 4
+  },
+  {
+    "logID": 426,
+    "totalLicExist": "2018-06-05T00:42:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 16,
+    "used_vie": 4
+  },
+  {
+    "logID": 427,
+    "totalLicExist": "2018-06-05T00:47:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 16,
+    "used_vie": 4
+  },
+  {
+    "logID": 428,
+    "totalLicExist": "2018-06-05T00:52:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 16,
+    "used_vie": 4
+  },
+  {
+    "logID": 429,
+    "totalLicExist": "2018-06-05T00:57:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 16,
+    "used_vie": 4
+  },
+  {
+    "logID": 430,
+    "totalLicExist": "2018-06-05T01:05:52+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 16,
+    "used_vie": 4
+  },
+  {
+    "logID": 431,
+    "totalLicExist": "2018-06-05T01:08:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 16,
+    "used_vie": 4
+  },
+  {
+    "logID": 432,
+    "totalLicExist": "2018-06-05T01:12:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 16,
+    "used_vie": 4
+  },
+  {
+    "logID": 433,
+    "totalLicExist": "2018-06-05T01:17:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 16,
+    "used_vie": 4
+  },
+  {
+    "logID": 434,
+    "totalLicExist": "2018-06-05T01:22:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 16,
+    "used_vie": 4
+  },
+  {
+    "logID": 435,
+    "totalLicExist": "2018-06-05T01:27:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 16,
+    "used_vie": 4
+  },
+  {
+    "logID": 436,
+    "totalLicExist": "2018-06-05T01:32:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 16,
+    "used_vie": 4
+  },
+  {
+    "logID": 437,
+    "totalLicExist": "2018-06-05T01:37:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 16,
+    "used_vie": 4
+  },
+  {
+    "logID": 438,
+    "totalLicExist": "2018-06-05T01:42:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 16,
+    "used_vie": 4
+  },
+  {
+    "logID": 439,
+    "totalLicExist": "2018-06-05T01:47:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 16,
+    "used_vie": 4
+  },
+  {
+    "logID": 440,
+    "totalLicExist": "2018-06-05T01:52:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 16,
+    "used_vie": 4
+  },
+  {
+    "logID": 441,
+    "totalLicExist": "2018-06-05T01:57:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 16,
+    "used_vie": 4
+  },
+  {
+    "logID": 442,
+    "totalLicExist": "2018-06-05T02:02:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 16,
+    "used_vie": 4
+  },
+  {
+    "logID": 443,
+    "totalLicExist": "2018-06-05T02:07:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 16,
+    "used_vie": 4
+  },
+  {
+    "logID": 444,
+    "totalLicExist": "2018-06-05T02:12:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 16,
+    "used_vie": 4
+  },
+  {
+    "logID": 445,
+    "totalLicExist": "2018-06-05T02:17:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 16,
+    "used_vie": 4
+  },
+  {
+    "logID": 446,
+    "totalLicExist": "2018-06-05T02:22:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 16,
+    "used_vie": 4
+  },
+  {
+    "logID": 447,
+    "totalLicExist": "2018-06-05T02:27:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 16,
+    "used_vie": 4
+  },
+  {
+    "logID": 448,
+    "totalLicExist": "2018-06-05T02:32:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 16,
+    "used_vie": 4
+  },
+  {
+    "logID": 449,
+    "totalLicExist": "2018-06-05T02:37:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 16,
+    "used_vie": 4
+  },
+  {
+    "logID": 450,
+    "totalLicExist": "2018-06-05T02:42:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 16,
+    "used_vie": 4
+  },
+  {
+    "logID": 451,
+    "totalLicExist": "2018-06-05T02:47:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 16,
+    "used_vie": 4
+  },
+  {
+    "logID": 452,
+    "totalLicExist": "2018-06-05T02:52:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 16,
+    "used_vie": 4
+  },
+  {
+    "logID": 453,
+    "totalLicExist": "2018-06-05T02:57:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 15,
+    "used_vie": 4
+  },
+  {
+    "logID": 454,
+    "totalLicExist": "2018-06-05T03:02:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 15,
+    "used_vie": 4
+  },
+  {
+    "logID": 455,
+    "totalLicExist": "2018-06-05T03:07:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 15,
+    "used_vie": 4
+  },
+  {
+    "logID": 456,
+    "totalLicExist": "2018-06-05T03:12:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 15,
+    "used_vie": 4
+  },
+  {
+    "logID": 457,
+    "totalLicExist": "2018-06-05T03:17:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 1,
+    "used_pcd": 15,
+    "used_vie": 4
+  },
+  {
+    "logID": 458,
+    "totalLicExist": "2018-06-05T03:22:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 1,
+    "used_pcd": 15,
+    "used_vie": 4
+  },
+  {
+    "logID": 459,
+    "totalLicExist": "2018-06-05T03:27:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 1,
+    "used_pcd": 15,
+    "used_vie": 4
+  },
+  {
+    "logID": 460,
+    "totalLicExist": "2018-06-05T03:32:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 1,
+    "used_pcd": 15,
+    "used_vie": 4
+  },
+  {
+    "logID": 461,
+    "totalLicExist": "2018-06-05T03:37:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 1,
+    "used_pcd": 15,
+    "used_vie": 4
+  },
+  {
+    "logID": 462,
+    "totalLicExist": "2018-06-05T03:42:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 1,
+    "used_pcd": 15,
+    "used_vie": 4
+  },
+  {
+    "logID": 463,
+    "totalLicExist": "2018-06-05T03:47:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 1,
+    "used_pcd": 15,
+    "used_vie": 4
+  },
+  {
+    "logID": 464,
+    "totalLicExist": "2018-06-05T03:52:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 1,
+    "used_pcd": 15,
+    "used_vie": 4
+  },
+  {
+    "logID": 465,
+    "totalLicExist": "2018-06-05T03:57:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 1,
+    "used_pcd": 15,
+    "used_vie": 4
+  },
+  {
+    "logID": 466,
+    "totalLicExist": "2018-06-05T04:02:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 1,
+    "used_pcd": 15,
+    "used_vie": 4
+  },
+  {
+    "logID": 467,
+    "totalLicExist": "2018-06-05T04:07:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 1,
+    "used_pcd": 15,
+    "used_vie": 4
+  },
+  {
+    "logID": 468,
+    "totalLicExist": "2018-06-05T04:12:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 1,
+    "used_pcd": 15,
+    "used_vie": 4
+  },
+  {
+    "logID": 469,
+    "totalLicExist": "2018-06-05T04:17:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 1,
+    "used_pcd": 15,
+    "used_vie": 4
+  },
+  {
+    "logID": 470,
+    "totalLicExist": "2018-06-05T04:22:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 1,
+    "used_pcd": 15,
+    "used_vie": 4
+  },
+  {
+    "logID": 471,
+    "totalLicExist": "2018-06-05T04:27:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 1,
+    "used_pcd": 15,
+    "used_vie": 4
+  },
+  {
+    "logID": 472,
+    "totalLicExist": "2018-06-05T04:32:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 1,
+    "used_pcd": 15,
+    "used_vie": 4
+  },
+  {
+    "logID": 473,
+    "totalLicExist": "2018-06-05T04:37:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 1,
+    "used_pcd": 15,
+    "used_vie": 4
+  },
+  {
+    "logID": 474,
+    "totalLicExist": "2018-06-05T04:42:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 1,
+    "used_pcd": 15,
+    "used_vie": 4
+  },
+  {
+    "logID": 475,
+    "totalLicExist": "2018-06-05T04:47:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 1,
+    "used_pcd": 15,
+    "used_vie": 4
+  },
+  {
+    "logID": 476,
+    "totalLicExist": "2018-06-05T04:52:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 1,
+    "used_pcd": 15,
+    "used_vie": 4
+  },
+  {
+    "logID": 477,
+    "totalLicExist": "2018-06-05T04:57:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 1,
+    "used_pcd": 15,
+    "used_vie": 4
+  },
+  {
+    "logID": 478,
+    "totalLicExist": "2018-06-05T05:02:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 1,
+    "used_pcd": 15,
+    "used_vie": 4
+  },
+  {
+    "logID": 479,
+    "totalLicExist": "2018-06-05T05:07:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 1,
+    "used_pcd": 15,
+    "used_vie": 4
+  },
+  {
+    "logID": 480,
+    "totalLicExist": "2018-06-05T05:12:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 1,
+    "used_pcd": 15,
+    "used_vie": 4
+  },
+  {
+    "logID": 481,
+    "totalLicExist": "2018-06-05T05:17:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 1,
+    "used_pcd": 15,
+    "used_vie": 4
+  },
+  {
+    "logID": 482,
+    "totalLicExist": "2018-06-05T05:22:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 1,
+    "used_pcd": 15,
+    "used_vie": 4
+  },
+  {
+    "logID": 483,
+    "totalLicExist": "2018-06-05T05:27:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 1,
+    "used_pcd": 15,
+    "used_vie": 4
+  },
+  {
+    "logID": 484,
+    "totalLicExist": "2018-06-05T05:32:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 1,
+    "used_pcd": 15,
+    "used_vie": 4
+  },
+  {
+    "logID": 485,
+    "totalLicExist": "2018-06-05T05:37:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 1,
+    "used_pcd": 15,
+    "used_vie": 4
+  },
+  {
+    "logID": 486,
+    "totalLicExist": "2018-06-05T05:42:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 1,
+    "used_pcd": 15,
+    "used_vie": 4
+  },
+  {
+    "logID": 487,
+    "totalLicExist": "2018-06-05T05:47:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 1,
+    "used_pcd": 15,
+    "used_vie": 4
+  },
+  {
+    "logID": 488,
+    "totalLicExist": "2018-06-05T05:52:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 1,
+    "used_pcd": 15,
+    "used_vie": 4
+  },
+  {
+    "logID": 489,
+    "totalLicExist": "2018-06-05T05:57:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 1,
+    "used_pcd": 15,
+    "used_vie": 4
+  },
+  {
+    "logID": 490,
+    "totalLicExist": "2018-06-05T06:02:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 1,
+    "used_pcd": 14,
+    "used_vie": 4
+  },
+  {
+    "logID": 491,
+    "totalLicExist": "2018-06-05T06:07:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 1,
+    "used_pcd": 14,
+    "used_vie": 4
+  },
+  {
+    "logID": 492,
+    "totalLicExist": "2018-06-05T06:12:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 14,
+    "used_vie": 4
+  },
+  {
+    "logID": 493,
+    "totalLicExist": "2018-06-05T06:17:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 14,
+    "used_vie": 4
+  },
+  {
+    "logID": 494,
+    "totalLicExist": "2018-06-05T06:22:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 14,
+    "used_vie": 4
+  },
+  {
+    "logID": 495,
+    "totalLicExist": "2018-06-05T06:27:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 14,
+    "used_vie": 4
+  },
+  {
+    "logID": 496,
+    "totalLicExist": "2018-06-05T06:32:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 14,
+    "used_vie": 4
+  },
+  {
+    "logID": 497,
+    "totalLicExist": "2018-06-05T06:37:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 14,
+    "used_vie": 5
+  },
+  {
+    "logID": 498,
+    "totalLicExist": "2018-06-05T06:42:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 15,
+    "used_vie": 5
+  },
+  {
+    "logID": 499,
+    "totalLicExist": "2018-06-05T06:47:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 16,
+    "used_vie": 5
+  },
+  {
+    "logID": 500,
+    "totalLicExist": "2018-06-05T06:52:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 16,
+    "used_vie": 5
+  },
+  {
+    "logID": 501,
+    "totalLicExist": "2018-06-05T06:57:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 3,
+    "used_fud": 2,
+    "used_pcd": 15,
+    "used_vie": 6
+  },
+  {
+    "logID": 502,
+    "totalLicExist": "2018-06-05T07:02:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 3,
+    "used_fud": 2,
+    "used_pcd": 17,
+    "used_vie": 7
+  },
+  {
+    "logID": 503,
+    "totalLicExist": "2018-06-05T07:07:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 4,
+    "used_fud": 2,
+    "used_pcd": 17,
+    "used_vie": 9
+  },
+  {
+    "logID": 504,
+    "totalLicExist": "2018-06-05T07:12:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 4,
+    "used_fud": 2,
+    "used_pcd": 18,
+    "used_vie": 9
+  },
+  {
+    "logID": 505,
+    "totalLicExist": "2018-06-05T07:17:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 5,
+    "used_fud": 2,
+    "used_pcd": 18,
+    "used_vie": 10
+  },
+  {
+    "logID": 506,
+    "totalLicExist": "2018-06-05T07:22:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 5,
+    "used_fud": 2,
+    "used_pcd": 21,
+    "used_vie": 10
+  },
+  {
+    "logID": 507,
+    "totalLicExist": "2018-06-05T07:27:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 6,
+    "used_fud": 2,
+    "used_pcd": 24,
+    "used_vie": 10
+  },
+  {
+    "logID": 508,
+    "totalLicExist": "2018-06-05T07:32:20+03:00",
+    "used_cm": 0,
+    "used_dfr": 8,
+    "used_fud": 2,
+    "used_pcd": 27,
+    "used_vie": 10
+  },
+  {
+    "logID": 509,
+    "totalLicExist": "2018-06-05T07:37:25+03:00",
+    "used_cm": 0,
+    "used_dfr": 9,
+    "used_fud": 2,
+    "used_pcd": 31,
+    "used_vie": 10
+  },
+  {
+    "logID": 510,
+    "totalLicExist": "2018-06-05T07:42:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 9,
+    "used_fud": 2,
+    "used_pcd": 34,
+    "used_vie": 10
+  },
+  {
+    "logID": 511,
+    "totalLicExist": "2018-06-05T07:47:26+03:00",
+    "used_cm": 0,
+    "used_dfr": 9,
+    "used_fud": 2,
+    "used_pcd": 36,
+    "used_vie": 11
+  },
+  {
+    "logID": 512,
+    "totalLicExist": "2018-06-05T07:52:28+03:00",
+    "used_cm": 0,
+    "used_dfr": 11,
+    "used_fud": 3,
+    "used_pcd": 37,
+    "used_vie": 11
+  },
+  {
+    "logID": 513,
+    "totalLicExist": "2018-06-05T07:57:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 11,
+    "used_fud": 3,
+    "used_pcd": 39,
+    "used_vie": 12
+  },
+  {
+    "logID": 514,
+    "totalLicExist": "2018-06-05T08:02:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 11,
+    "used_fud": 3,
+    "used_pcd": 40,
+    "used_vie": 13
+  },
+  {
+    "logID": 515,
+    "totalLicExist": "2018-06-05T08:07:20+03:00",
+    "used_cm": 0,
+    "used_dfr": 11,
+    "used_fud": 3,
+    "used_pcd": 40,
+    "used_vie": 16
+  },
+  {
+    "logID": 516,
+    "totalLicExist": "2018-06-05T08:12:22+03:00",
+    "used_cm": 0,
+    "used_dfr": 11,
+    "used_fud": 3,
+    "used_pcd": 42,
+    "used_vie": 16
+  },
+  {
+    "logID": 517,
+    "totalLicExist": "2018-06-05T08:17:21+03:00",
+    "used_cm": 0,
+    "used_dfr": 11,
+    "used_fud": 3,
+    "used_pcd": 42,
+    "used_vie": 17
+  },
+  {
+    "logID": 518,
+    "totalLicExist": "2018-06-05T08:22:25+03:00",
+    "used_cm": 0,
+    "used_dfr": 11,
+    "used_fud": 3,
+    "used_pcd": 44,
+    "used_vie": 17
+  },
+  {
+    "logID": 519,
+    "totalLicExist": "2018-06-05T08:27:22+03:00",
+    "used_cm": 0,
+    "used_dfr": 11,
+    "used_fud": 3,
+    "used_pcd": 44,
+    "used_vie": 18
+  },
+  {
+    "logID": 520,
+    "totalLicExist": "2018-06-05T08:32:20+03:00",
+    "used_cm": 0,
+    "used_dfr": 11,
+    "used_fud": 3,
+    "used_pcd": 45,
+    "used_vie": 18
+  },
+  {
+    "logID": 521,
+    "totalLicExist": "2018-06-05T08:37:20+03:00",
+    "used_cm": 0,
+    "used_dfr": 11,
+    "used_fud": 3,
+    "used_pcd": 47,
+    "used_vie": 18
+  },
+  {
+    "logID": 522,
+    "totalLicExist": "2018-06-05T08:42:22+03:00",
+    "used_cm": 0,
+    "used_dfr": 11,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 18
+  },
+  {
+    "logID": 523,
+    "totalLicExist": "2018-06-05T08:47:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 11,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 18
+  },
+  {
+    "logID": 524,
+    "totalLicExist": "2018-06-05T08:52:23+03:00",
+    "used_cm": 0,
+    "used_dfr": 11,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 18
+  },
+  {
+    "logID": 525,
+    "totalLicExist": "2018-06-05T08:57:23+03:00",
+    "used_cm": 0,
+    "used_dfr": 11,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 19
+  },
+  {
+    "logID": 526,
+    "totalLicExist": "2018-06-05T09:02:21+03:00",
+    "used_cm": 0,
+    "used_dfr": 11,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 19
+  },
+  {
+    "logID": 527,
+    "totalLicExist": "2018-06-05T09:07:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 11,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 19
+  },
+  {
+    "logID": 528,
+    "totalLicExist": "2018-06-05T09:12:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 11,
+    "used_fud": 3,
+    "used_pcd": 47,
+    "used_vie": 20
+  },
+  {
+    "logID": 529,
+    "totalLicExist": "2018-06-05T09:17:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 47,
+    "used_vie": 21
+  },
+  {
+    "logID": 530,
+    "totalLicExist": "2018-06-05T09:22:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 11,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 20
+  },
+  {
+    "logID": 531,
+    "totalLicExist": "2018-06-05T09:27:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 20
+  },
+  {
+    "logID": 532,
+    "totalLicExist": "2018-06-05T09:32:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 20
+  },
+  {
+    "logID": 533,
+    "totalLicExist": "2018-06-05T09:37:20+03:00",
+    "used_cm": 0,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 19
+  },
+  {
+    "logID": 534,
+    "totalLicExist": "2018-06-05T09:42:24+03:00",
+    "used_cm": 0,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 19
+  },
+  {
+    "logID": 535,
+    "totalLicExist": "2018-06-05T09:47:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 20
+  },
+  {
+    "logID": 536,
+    "totalLicExist": "2018-06-05T09:52:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 20
+  },
+  {
+    "logID": 537,
+    "totalLicExist": "2018-06-05T09:57:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 20
+  },
+  {
+    "logID": 538,
+    "totalLicExist": "2018-06-05T10:02:30+03:00",
+    "used_cm": 0,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 21
+  },
+  {
+    "logID": 539,
+    "totalLicExist": "2018-06-05T10:07:20+03:00",
+    "used_cm": 0,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 21
+  },
+  {
+    "logID": 540,
+    "totalLicExist": "2018-06-05T10:12:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 22
+  },
+  {
+    "logID": 541,
+    "totalLicExist": "2018-06-05T10:17:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 22
+  },
+  {
+    "logID": 542,
+    "totalLicExist": "2018-06-05T10:22:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 22
+  },
+  {
+    "logID": 543,
+    "totalLicExist": "2018-06-05T10:27:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 22
+  },
+  {
+    "logID": 544,
+    "totalLicExist": "2018-06-05T10:32:20+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 22
+  },
+  {
+    "logID": 545,
+    "totalLicExist": "2018-06-05T10:37:20+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 22
+  },
+  {
+    "logID": 546,
+    "totalLicExist": "2018-06-05T10:42:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 22
+  },
+  {
+    "logID": 547,
+    "totalLicExist": "2018-06-05T10:47:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 22
+  },
+  {
+    "logID": 548,
+    "totalLicExist": "2018-06-05T10:52:21+03:00",
+    "used_cm": 1,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 22
+  },
+  {
+    "logID": 549,
+    "totalLicExist": "2018-06-05T10:57:33+03:00",
+    "used_cm": 1,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 22
+  },
+  {
+    "logID": 550,
+    "totalLicExist": "2018-06-05T11:02:30+03:00",
+    "used_cm": 1,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 22
+  },
+  {
+    "logID": 551,
+    "totalLicExist": "2018-06-05T11:07:20+03:00",
+    "used_cm": 1,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 21
+  },
+  {
+    "logID": 552,
+    "totalLicExist": "2018-06-05T11:12:21+03:00",
+    "used_cm": 1,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 22
+  },
+  {
+    "logID": 553,
+    "totalLicExist": "2018-06-05T11:17:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 23
+  },
+  {
+    "logID": 554,
+    "totalLicExist": "2018-06-05T11:22:20+03:00",
+    "used_cm": 1,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 22
+  },
+  {
+    "logID": 555,
+    "totalLicExist": "2018-06-05T11:27:20+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 22
+  },
+  {
+    "logID": 556,
+    "totalLicExist": "2018-06-05T11:32:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 22
+  },
+  {
+    "logID": 557,
+    "totalLicExist": "2018-06-05T11:37:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 22
+  },
+  {
+    "logID": 558,
+    "totalLicExist": "2018-06-05T11:42:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 22
+  },
+  {
+    "logID": 559,
+    "totalLicExist": "2018-06-05T11:47:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 21
+  },
+  {
+    "logID": 560,
+    "totalLicExist": "2018-06-05T11:52:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 21
+  },
+  {
+    "logID": 561,
+    "totalLicExist": "2018-06-05T11:57:21+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 21
+  },
+  {
+    "logID": 562,
+    "totalLicExist": "2018-06-05T12:02:22+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 22
+  },
+  {
+    "logID": 563,
+    "totalLicExist": "2018-06-05T12:07:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 22
+  },
+  {
+    "logID": 564,
+    "totalLicExist": "2018-06-05T12:12:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 21
+  },
+  {
+    "logID": 565,
+    "totalLicExist": "2018-06-05T12:17:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 22
+  },
+  {
+    "logID": 566,
+    "totalLicExist": "2018-06-05T12:22:23+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 21
+  },
+  {
+    "logID": 567,
+    "totalLicExist": "2018-06-05T12:27:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 21
+  },
+  {
+    "logID": 568,
+    "totalLicExist": "2018-06-05T12:32:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 21
+  },
+  {
+    "logID": 569,
+    "totalLicExist": "2018-06-05T12:37:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 21
+  },
+  {
+    "logID": 570,
+    "totalLicExist": "2018-06-05T12:42:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 21
+  },
+  {
+    "logID": 571,
+    "totalLicExist": "2018-06-05T12:47:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 21
+  },
+  {
+    "logID": 572,
+    "totalLicExist": "2018-06-05T12:52:25+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 22
+  },
+  {
+    "logID": 573,
+    "totalLicExist": "2018-06-05T12:57:20+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 22
+  },
+  {
+    "logID": 574,
+    "totalLicExist": "2018-06-05T13:02:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 22
+  },
+  {
+    "logID": 575,
+    "totalLicExist": "2018-06-05T13:07:20+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 22
+  },
+  {
+    "logID": 576,
+    "totalLicExist": "2018-06-05T13:12:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 22
+  },
+  {
+    "logID": 577,
+    "totalLicExist": "2018-06-05T13:17:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 22
+  },
+  {
+    "logID": 578,
+    "totalLicExist": "2018-06-05T13:22:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 22
+  },
+  {
+    "logID": 579,
+    "totalLicExist": "2018-06-05T13:27:20+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 21
+  },
+  {
+    "logID": 580,
+    "totalLicExist": "2018-06-05T13:32:21+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 21
+  },
+  {
+    "logID": 581,
+    "totalLicExist": "2018-06-05T13:37:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 47,
+    "used_vie": 22
+  },
+  {
+    "logID": 582,
+    "totalLicExist": "2018-06-05T13:42:23+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 22
+  },
+  {
+    "logID": 583,
+    "totalLicExist": "2018-06-05T13:47:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 47,
+    "used_vie": 22
+  },
+  {
+    "logID": 584,
+    "totalLicExist": "2018-06-05T13:52:20+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 21
+  },
+  {
+    "logID": 585,
+    "totalLicExist": "2018-06-05T13:57:22+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 21
+  },
+  {
+    "logID": 586,
+    "totalLicExist": "2018-06-05T14:02:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 47,
+    "used_vie": 21
+  },
+  {
+    "logID": 587,
+    "totalLicExist": "2018-06-05T14:07:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 21
+  },
+  {
+    "logID": 588,
+    "totalLicExist": "2018-06-05T14:12:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 47,
+    "used_vie": 21
+  },
+  {
+    "logID": 589,
+    "totalLicExist": "2018-06-05T14:17:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 21
+  },
+  {
+    "logID": 590,
+    "totalLicExist": "2018-06-05T14:22:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 21
+  },
+  {
+    "logID": 591,
+    "totalLicExist": "2018-06-05T14:27:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 21
+  },
+  {
+    "logID": 592,
+    "totalLicExist": "2018-06-05T14:32:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 22
+  },
+  {
+    "logID": 593,
+    "totalLicExist": "2018-06-05T14:37:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 22
+  },
+  {
+    "logID": 594,
+    "totalLicExist": "2018-06-05T14:42:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 23
+  },
+  {
+    "logID": 595,
+    "totalLicExist": "2018-06-05T14:47:20+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 23
+  },
+  {
+    "logID": 596,
+    "totalLicExist": "2018-06-05T14:52:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 23
+  },
+  {
+    "logID": 597,
+    "totalLicExist": "2018-06-05T14:57:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 23
+  },
+  {
+    "logID": 598,
+    "totalLicExist": "2018-06-05T15:02:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 13,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 22
+  },
+  {
+    "logID": 599,
+    "totalLicExist": "2018-06-05T15:07:23+03:00",
+    "used_cm": 1,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 20
+  },
+  {
+    "logID": 600,
+    "totalLicExist": "2018-06-05T15:12:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 21
+  },
+  {
+    "logID": 601,
+    "totalLicExist": "2018-06-05T15:17:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 21
+  },
+  {
+    "logID": 602,
+    "totalLicExist": "2018-06-05T15:22:22+03:00",
+    "used_cm": 1,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 21
+  },
+  {
+    "logID": 603,
+    "totalLicExist": "2018-06-05T15:27:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 21
+  },
+  {
+    "logID": 604,
+    "totalLicExist": "2018-06-05T15:32:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 21
+  },
+  {
+    "logID": 605,
+    "totalLicExist": "2018-06-05T15:37:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 21
+  },
+  {
+    "logID": 606,
+    "totalLicExist": "2018-06-05T15:42:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 21
+  },
+  {
+    "logID": 607,
+    "totalLicExist": "2018-06-05T15:47:21+03:00",
+    "used_cm": 1,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 48,
+    "used_vie": 21
+  },
+  {
+    "logID": 608,
+    "totalLicExist": "2018-06-05T15:52:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 12,
+    "used_fud": 3,
+    "used_pcd": 47,
+    "used_vie": 21
+  },
+  {
+    "logID": 609,
+    "totalLicExist": "2018-06-05T15:57:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 12,
+    "used_fud": 2,
+    "used_pcd": 45,
+    "used_vie": 21
+  },
+  {
+    "logID": 610,
+    "totalLicExist": "2018-06-05T16:02:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 11,
+    "used_fud": 2,
+    "used_pcd": 45,
+    "used_vie": 19
+  },
+  {
+    "logID": 611,
+    "totalLicExist": "2018-06-05T16:07:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 9,
+    "used_fud": 2,
+    "used_pcd": 45,
+    "used_vie": 19
+  },
+  {
+    "logID": 612,
+    "totalLicExist": "2018-06-05T16:12:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 9,
+    "used_fud": 3,
+    "used_pcd": 45,
+    "used_vie": 19
+  },
+  {
+    "logID": 613,
+    "totalLicExist": "2018-06-05T16:17:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 8,
+    "used_fud": 2,
+    "used_pcd": 43,
+    "used_vie": 18
+  },
+  {
+    "logID": 614,
+    "totalLicExist": "2018-06-05T16:22:22+03:00",
+    "used_cm": 1,
+    "used_dfr": 9,
+    "used_fud": 2,
+    "used_pcd": 43,
+    "used_vie": 18
+  },
+  {
+    "logID": 615,
+    "totalLicExist": "2018-06-05T16:27:20+03:00",
+    "used_cm": 1,
+    "used_dfr": 9,
+    "used_fud": 2,
+    "used_pcd": 43,
+    "used_vie": 18
+  },
+  {
+    "logID": 616,
+    "totalLicExist": "2018-06-05T16:32:20+03:00",
+    "used_cm": 1,
+    "used_dfr": 8,
+    "used_fud": 2,
+    "used_pcd": 43,
+    "used_vie": 18
+  },
+  {
+    "logID": 617,
+    "totalLicExist": "2018-06-05T16:37:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 7,
+    "used_fud": 2,
+    "used_pcd": 43,
+    "used_vie": 18
+  },
+  {
+    "logID": 618,
+    "totalLicExist": "2018-06-05T16:42:20+03:00",
+    "used_cm": 1,
+    "used_dfr": 6,
+    "used_fud": 2,
+    "used_pcd": 43,
+    "used_vie": 17
+  },
+  {
+    "logID": 619,
+    "totalLicExist": "2018-06-05T16:47:20+03:00",
+    "used_cm": 1,
+    "used_dfr": 6,
+    "used_fud": 2,
+    "used_pcd": 42,
+    "used_vie": 16
+  },
+  {
+    "logID": 620,
+    "totalLicExist": "2018-06-05T16:52:23+03:00",
+    "used_cm": 1,
+    "used_dfr": 6,
+    "used_fud": 3,
+    "used_pcd": 42,
+    "used_vie": 16
+  },
+  {
+    "logID": 621,
+    "totalLicExist": "2018-06-05T16:57:18+03:00",
+    "used_cm": 1,
+    "used_dfr": 4,
+    "used_fud": 3,
+    "used_pcd": 41,
+    "used_vie": 15
+  },
+  {
+    "logID": 622,
+    "totalLicExist": "2018-06-05T17:02:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 4,
+    "used_fud": 3,
+    "used_pcd": 39,
+    "used_vie": 14
+  },
+  {
+    "logID": 623,
+    "totalLicExist": "2018-06-05T17:07:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 5,
+    "used_fud": 3,
+    "used_pcd": 39,
+    "used_vie": 14
+  },
+  {
+    "logID": 624,
+    "totalLicExist": "2018-06-05T17:12:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 5,
+    "used_fud": 3,
+    "used_pcd": 39,
+    "used_vie": 12
+  },
+  {
+    "logID": 625,
+    "totalLicExist": "2018-06-05T17:17:21+03:00",
+    "used_cm": 1,
+    "used_dfr": 5,
+    "used_fud": 3,
+    "used_pcd": 39,
+    "used_vie": 12
+  },
+  {
+    "logID": 626,
+    "totalLicExist": "2018-06-05T17:22:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 5,
+    "used_fud": 2,
+    "used_pcd": 39,
+    "used_vie": 10
+  },
+  {
+    "logID": 627,
+    "totalLicExist": "2018-06-05T17:27:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 5,
+    "used_fud": 2,
+    "used_pcd": 38,
+    "used_vie": 10
+  },
+  {
+    "logID": 628,
+    "totalLicExist": "2018-06-05T17:32:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 5,
+    "used_fud": 2,
+    "used_pcd": 37,
+    "used_vie": 7
+  },
+  {
+    "logID": 629,
+    "totalLicExist": "2018-06-05T17:37:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 4,
+    "used_fud": 2,
+    "used_pcd": 35,
+    "used_vie": 7
+  },
+  {
+    "logID": 630,
+    "totalLicExist": "2018-06-05T17:42:19+03:00",
+    "used_cm": 1,
+    "used_dfr": 4,
+    "used_fud": 2,
+    "used_pcd": 35,
+    "used_vie": 7
+  },
+  {
+    "logID": 631,
+    "totalLicExist": "2018-06-05T17:47:21+03:00",
+    "used_cm": 0,
+    "used_dfr": 4,
+    "used_fud": 2,
+    "used_pcd": 33,
+    "used_vie": 6
+  },
+  {
+    "logID": 632,
+    "totalLicExist": "2018-06-05T17:52:20+03:00",
+    "used_cm": 0,
+    "used_dfr": 4,
+    "used_fud": 2,
+    "used_pcd": 32,
+    "used_vie": 6
+  },
+  {
+    "logID": 633,
+    "totalLicExist": "2018-06-05T17:57:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 4,
+    "used_fud": 2,
+    "used_pcd": 30,
+    "used_vie": 6
+  },
+  {
+    "logID": 634,
+    "totalLicExist": "2018-06-05T18:02:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 3,
+    "used_fud": 3,
+    "used_pcd": 29,
+    "used_vie": 6
+  },
+  {
+    "logID": 635,
+    "totalLicExist": "2018-06-05T18:07:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 3,
+    "used_fud": 3,
+    "used_pcd": 28,
+    "used_vie": 6
+  },
+  {
+    "logID": 636,
+    "totalLicExist": "2018-06-05T18:12:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 3,
+    "used_fud": 3,
+    "used_pcd": 27,
+    "used_vie": 6
+  },
+  {
+    "logID": 637,
+    "totalLicExist": "2018-06-05T18:17:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 3,
+    "used_fud": 3,
+    "used_pcd": 27,
+    "used_vie": 6
+  },
+  {
+    "logID": 638,
+    "totalLicExist": "2018-06-05T18:22:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 3,
+    "used_fud": 3,
+    "used_pcd": 25,
+    "used_vie": 6
+  },
+  {
+    "logID": 639,
+    "totalLicExist": "2018-06-05T18:27:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 3,
+    "used_fud": 3,
+    "used_pcd": 23,
+    "used_vie": 6
+  },
+  {
+    "logID": 640,
+    "totalLicExist": "2018-06-05T18:32:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 3,
+    "used_fud": 3,
+    "used_pcd": 23,
+    "used_vie": 6
+  },
+  {
+    "logID": 641,
+    "totalLicExist": "2018-06-05T18:37:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 4,
+    "used_fud": 3,
+    "used_pcd": 21,
+    "used_vie": 6
+  },
+  {
+    "logID": 642,
+    "totalLicExist": "2018-06-05T18:42:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 4,
+    "used_fud": 3,
+    "used_pcd": 20,
+    "used_vie": 6
+  },
+  {
+    "logID": 643,
+    "totalLicExist": "2018-06-05T18:47:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 3,
+    "used_fud": 3,
+    "used_pcd": 19,
+    "used_vie": 6
+  },
+  {
+    "logID": 644,
+    "totalLicExist": "2018-06-05T18:52:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 3,
+    "used_fud": 2,
+    "used_pcd": 19,
+    "used_vie": 6
+  },
+  {
+    "logID": 645,
+    "totalLicExist": "2018-06-05T18:57:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 3,
+    "used_fud": 2,
+    "used_pcd": 19,
+    "used_vie": 6
+  },
+  {
+    "logID": 646,
+    "totalLicExist": "2018-06-05T19:04:54+03:00",
+    "used_cm": 0,
+    "used_dfr": 3,
+    "used_fud": 3,
+    "used_pcd": 17,
+    "used_vie": 5
+  },
+  {
+    "logID": 647,
+    "totalLicExist": "2018-06-05T19:12:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 3,
+    "used_fud": 3,
+    "used_pcd": 17,
+    "used_vie": 5
+  },
+  {
+    "logID": 648,
+    "totalLicExist": "2018-06-05T19:17:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 3,
+    "used_fud": 3,
+    "used_pcd": 17,
+    "used_vie": 5
+  },
+  {
+    "logID": 649,
+    "totalLicExist": "2018-06-05T19:22:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 3,
+    "used_fud": 3,
+    "used_pcd": 17,
+    "used_vie": 5
+  },
+  {
+    "logID": 650,
+    "totalLicExist": "2018-06-05T19:27:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 3,
+    "used_pcd": 16,
+    "used_vie": 6
+  },
+  {
+    "logID": 651,
+    "totalLicExist": "2018-06-05T19:32:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 3,
+    "used_pcd": 16,
+    "used_vie": 6
+  },
+  {
+    "logID": 652,
+    "totalLicExist": "2018-06-05T19:37:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 16,
+    "used_vie": 6
+  },
+  {
+    "logID": 653,
+    "totalLicExist": "2018-06-05T19:42:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 16,
+    "used_vie": 6
+  },
+  {
+    "logID": 654,
+    "totalLicExist": "2018-06-05T19:47:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 16,
+    "used_vie": 6
+  },
+  {
+    "logID": 655,
+    "totalLicExist": "2018-06-05T19:52:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 14,
+    "used_vie": 6
+  },
+  {
+    "logID": 656,
+    "totalLicExist": "2018-06-05T19:57:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 14,
+    "used_vie": 6
+  },
+  {
+    "logID": 657,
+    "totalLicExist": "2018-06-05T20:02:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 3,
+    "used_pcd": 14,
+    "used_vie": 6
+  },
+  {
+    "logID": 658,
+    "totalLicExist": "2018-06-05T20:07:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 3,
+    "used_pcd": 14,
+    "used_vie": 6
+  },
+  {
+    "logID": 659,
+    "totalLicExist": "2018-06-05T20:12:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 3,
+    "used_pcd": 14,
+    "used_vie": 6
+  },
+  {
+    "logID": 660,
+    "totalLicExist": "2018-06-05T20:17:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 3,
+    "used_fud": 3,
+    "used_pcd": 14,
+    "used_vie": 6
+  },
+  {
+    "logID": 661,
+    "totalLicExist": "2018-06-05T20:22:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 3,
+    "used_fud": 3,
+    "used_pcd": 14,
+    "used_vie": 6
+  },
+  {
+    "logID": 662,
+    "totalLicExist": "2018-06-05T20:27:20+03:00",
+    "used_cm": 0,
+    "used_dfr": 3,
+    "used_fud": 3,
+    "used_pcd": 14,
+    "used_vie": 6
+  },
+  {
+    "logID": 663,
+    "totalLicExist": "2018-06-05T20:32:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 3,
+    "used_fud": 3,
+    "used_pcd": 14,
+    "used_vie": 6
+  },
+  {
+    "logID": 664,
+    "totalLicExist": "2018-06-05T20:37:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 3,
+    "used_fud": 3,
+    "used_pcd": 14,
+    "used_vie": 6
+  },
+  {
+    "logID": 665,
+    "totalLicExist": "2018-06-05T20:42:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 3,
+    "used_fud": 3,
+    "used_pcd": 14,
+    "used_vie": 6
+  },
+  {
+    "logID": 666,
+    "totalLicExist": "2018-06-05T20:47:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 3,
+    "used_fud": 3,
+    "used_pcd": 14,
+    "used_vie": 6
+  },
+  {
+    "logID": 667,
+    "totalLicExist": "2018-06-05T20:52:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 3,
+    "used_fud": 2,
+    "used_pcd": 14,
+    "used_vie": 6
+  },
+  {
+    "logID": 668,
+    "totalLicExist": "2018-06-05T20:57:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 3,
+    "used_fud": 2,
+    "used_pcd": 14,
+    "used_vie": 5
+  },
+  {
+    "logID": 669,
+    "totalLicExist": "2018-06-05T21:07:08+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 1,
+    "used_pcd": 14,
+    "used_vie": 6
+  },
+  {
+    "logID": 670,
+    "totalLicExist": "2018-06-05T21:13:07+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 1,
+    "used_pcd": 14,
+    "used_vie": 6
+  },
+  {
+    "logID": 671,
+    "totalLicExist": "2018-06-05T21:17:49+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 1,
+    "used_pcd": 14,
+    "used_vie": 6
+  },
+  {
+    "logID": 672,
+    "totalLicExist": "2018-06-05T21:22:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 1,
+    "used_pcd": 14,
+    "used_vie": 6
+  },
+  {
+    "logID": 673,
+    "totalLicExist": "2018-06-05T21:27:20+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 1,
+    "used_pcd": 14,
+    "used_vie": 6
+  },
+  {
+    "logID": 674,
+    "totalLicExist": "2018-06-05T21:32:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 14,
+    "used_vie": 6
+  },
+  {
+    "logID": 675,
+    "totalLicExist": "2018-06-05T21:37:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 14,
+    "used_vie": 5
+  },
+  {
+    "logID": 676,
+    "totalLicExist": "2018-06-05T21:42:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 14,
+    "used_vie": 5
+  },
+  {
+    "logID": 677,
+    "totalLicExist": "2018-06-05T21:48:27+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 14,
+    "used_vie": 5
+  },
+  {
+    "logID": 678,
+    "totalLicExist": "2018-06-05T21:52:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 13,
+    "used_vie": 5
+  },
+  {
+    "logID": 679,
+    "totalLicExist": "2018-06-05T21:57:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 13,
+    "used_vie": 5
+  },
+  {
+    "logID": 680,
+    "totalLicExist": "2018-06-05T22:03:42+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 13,
+    "used_vie": 5
+  },
+  {
+    "logID": 681,
+    "totalLicExist": "2018-06-05T22:07:25+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 13,
+    "used_vie": 5
+  },
+  {
+    "logID": 682,
+    "totalLicExist": "2018-06-05T22:13:18+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 13,
+    "used_vie": 5
+  },
+  {
+    "logID": 683,
+    "totalLicExist": "2018-06-05T22:17:19+03:00",
+    "used_cm": 0,
+    "used_dfr": 2,
+    "used_fud": 2,
+    "used_pcd": 13,
+    "used_vie": 5
+  }
+  ]
