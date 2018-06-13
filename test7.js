@@ -1,11 +1,11 @@
 function getData() {
     $.ajax({
         // url: 'https://api.myjson.com/bins/13nore',
-        //   url: 'http://localhost:8080/rest/myProjectRest/logas',
-        url: 'data4.json',
+         //  url: 'http://localhost:8080/rest/myProjectRest/logas3',
+        url: 'data6.json',
         type: 'GET',
         success: function(data) {
-            var series = [{
+            var series = [{   turboThreshold: 0,
                 data: []
             }];
 
@@ -15,22 +15,9 @@ function getData() {
                     x: el.to,
                     y: el.up,
 
-
-
                 });
 
             });
-
-
-            // function formToJSON() {
-            //     return JSON.stringify({
-            //         "to": $('#to').val(),
-            //         "up": $('#up').val()
-            //
-            //
-            //     });
-            // };
-
 
 
             createChart(series);
@@ -43,7 +30,7 @@ function createChart(series) {
         rangeSelector: {
             selected: 1
         },
-        turboThreshold:0,
+        // turboThreshold:999,
         title: {
             text: 'Tekla Precast Concrete Detailing License Usage'
         },
