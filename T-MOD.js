@@ -1,7 +1,6 @@
-
 var seriesOptions = [],
     seriesCounter = 0,
-    names = ['Used PCD', 'Total PCD'];
+    names = ['Used MOD', 'Total MOD'];
 
 /**
  * Create the chart when all data is loaded
@@ -10,6 +9,10 @@ var seriesOptions = [],
 function createChart() {
 
     Highcharts.stockChart('container', {
+        title: {
+            text: 'Tekla CM License Usage'
+        },
+
 
         rangeSelector: {
             selected: 4
@@ -17,9 +20,6 @@ function createChart() {
 
         yAxis: {
             labels: {
-                // formatter: function () {
-                //     return (this.value > 0 ? ' + ' : '') + this.value + '%';
-                // }
             },
             plotLines: [{
                 value: 0,
@@ -47,82 +47,30 @@ function createChart() {
 
 $.each(names, function (i, name) {
 
-    //$.getJSON('https://www.highcharts.com/samples/data/' + name.toLowerCase() + '-c.json',  function (data) {
-    $.getJSON('http://localhost:8080/rest/myProjectRest/PCD',  function (data) {
+    $.getJSON('http://localhost:8080/rest/myProjectRest/MOD',  function (data) {
 
         seriesOptions[i] = {turboThreshold: 0,
             name: name,
             // data: data
-            data: [
-
-
-            ]
+            data: []
         };
-
         Highcharts.each(data, function(el){
 
             var k=0;
             var t=1;
             if (seriesCounter == 0) {
-                k= el.up;
+                k= el.uc;
             };
             if (seriesCounter == 1) {
-                k= el.tp;
+                k= el.tc;
             };
-
-
             seriesOptions[i].data.push({
-
                     x: el.to,
-
-                // if (seriesCounter = 2) {
-                //     k= el.tp;
-                // },
                      y: k,
-
-
-
-
-
                 }
-
             );
 
-
         }),
-
-
-        // // var z=30;
-        // // var k=i;
-        // // console.log(k);
-        // Highcharts.each(data, function(el) {
-        //
-        //     // if (k = 1) {
-        //     //     z= el.up;
-        //     // }
-        //     // if (k = 2) {
-        //     //     z= el.tp;
-        //     // };
-        //
-        //
-        //
-        //     seriesOptions[i].data.push({
-        //
-        //
-        //
-        //
-        //
-        //
-        //
-        //     }
-        //
-        //     );
-        //
-        //
-        //
-        // });
-
-
 
         // As we're loading the data asynchronously, we don't know what order it will arrive. So
         // we keep a counter and create the chart when all the data is loaded.

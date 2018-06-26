@@ -10,6 +10,9 @@ var seriesOptions = [],
 function createChart() {
 
     Highcharts.stockChart('container', {
+        title: {
+            text: 'Tekla PCD License Usage'
+        },
 
         rangeSelector: {
             selected: 4
