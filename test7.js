@@ -1,8 +1,10 @@
 function getData() {
     $.ajax({
         // url: 'https://api.myjson.com/bins/13nore',
-         //  url: 'http://localhost:8080/rest/myProjectRest/logas3',
-        url: 'data6.json',
+           url: 'http://localhost:8080/rest/myProjectRest/logas3',
+            // yql_url : 'https://query.yahooapis.com/v1/public/yql',
+            // url : 'your api url',
+        // url: 'data6.json',
         type: 'GET',
         success: function(data) {
             var series = [{   turboThreshold: 0,
@@ -12,10 +14,21 @@ function getData() {
             Highcharts.each(data, function(el) {
                 console.log(el);
                 series[0].data.push({
-                    x: el.to,
-                    y: el.up,
 
-                });
+                        x: el.to,
+                        // y: el.tp-el.up,
+                        y: el.up,
+                }
+                // ,{
+                //         x: el.to,
+                //         y: el.tp,
+                //
+                // }
+                );
+
+
+
+
 
             });
 
@@ -28,6 +41,11 @@ function getData() {
 function createChart(series) {
     Highcharts.stockChart('container', {
         rangeSelector: {
+
+            // chart: {
+            //     type: 'arearange'
+            // },
+
             selected: 1
         },
         // turboThreshold:999,
@@ -36,6 +54,8 @@ function createChart(series) {
         },
         series: series,
     });
+
+
 }
 
 
